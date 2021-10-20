@@ -1,0 +1,1508 @@
+﻿Log file open, 10/18/21 01:16:19
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: CarProject
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.341377
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +5:30, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 5 2500U with Radeon Vega Mobile Gfx  , GPU: AMD Radeon(TM) Vega 8 Graphics
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/yash lahoti/Documents/Unreal Projects/CarProject/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.10.17-19.46.20:599][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.10.17-19.46.20:599][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.10.17-19.46.20:599][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/yash lahoti/Documents/Unreal Projects/CarProject/Saved/Config/Windows/Engine.ini]
+[2021.10.17-19.46.20:599][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.10.17-19.46.20:599][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/yash lahoti/Documents/Unreal Projects/CarProject/Saved/Config/Windows/Engine.ini]
+[2021.10.17-19.46.20:599][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/yash lahoti/Documents/Unreal Projects/CarProject/Saved/Config/Windows/Engine.ini]
+[2021.10.17-19.46.20:599][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.10.17-19.46.20:599][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.10.17-19.46.20:599][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.10.17-19.46.20:599][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.10.17-19.46.20:599][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.10.17-19.46.20:599][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.10.17-19.46.20:599][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.10.17-19.46.20:599][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.10.17-19.46.20:599][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.10.17-19.46.20:599][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.10.17-19.46.20:599][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.10.17-19.46.20:599][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.10.17-19.46.20:599][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.10.17-19.46.20:599][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.10.17-19.46.20:599][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/yash lahoti/Documents/Unreal Projects/CarProject/Saved/Config/Windows/Engine.ini]
+[2021.10.17-19.46.20:599][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.10.17-19.46.20:599][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.10.17-19.46.20:599][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.10.17-19.46.20:599][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.10.17-19.46.20:599][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.10.17-19.46.20:599][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.10.17-19.46.20:599][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.10.17-19.46.20:599][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.10.17-19.46.20:599][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.10.17-19.46.20:599][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.10.17-19.46.20:599][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.10.17-19.46.20:600][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.10.17-19.46.20:600][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.10.17-19.46.20:600][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.10.17-19.46.20:600][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/yash lahoti/Documents/Unreal Projects/CarProject/Saved/Config/Windows/Engine.ini]
+[2021.10.17-19.46.20:600][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/yash lahoti/Documents/Unreal Projects/CarProject/Saved/Config/Windows/Engine.ini]
+[2021.10.17-19.46.20:609][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/yash lahoti/Documents/Unreal Projects/CarProject/Saved/Config/Windows/Scalability.ini]
+[2021.10.17-19.46.20:609][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.10.17-19.46.20:609][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.10.17-19.46.20:609][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/yash lahoti/Documents/Unreal Projects/CarProject/Saved/Config/Windows/Scalability.ini]
+[2021.10.17-19.46.20:609][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.10.17-19.46.20:609][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/yash lahoti/Documents/Unreal Projects/CarProject/Saved/Config/Windows/Scalability.ini]
+[2021.10.17-19.46.20:609][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.10.17-19.46.20:609][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.10.17-19.46.20:609][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.10.17-19.46.20:609][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.10.17-19.46.20:609][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.10.17-19.46.20:609][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.10.17-19.46.20:609][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.10.17-19.46.20:609][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.10.17-19.46.20:609][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.10.17-19.46.20:609][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.10.17-19.46.20:609][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.10.17-19.46.20:609][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.10.17-19.46.20:609][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.10.17-19.46.20:609][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.10.17-19.46.20:609][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.10.17-19.46.20:609][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.10.17-19.46.20:609][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.10.17-19.46.20:609][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.10.17-19.46.20:609][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/yash lahoti/Documents/Unreal Projects/CarProject/Saved/Config/Windows/Scalability.ini]
+[2021.10.17-19.46.20:609][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.10.17-19.46.20:609][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.10.17-19.46.20:609][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.10.17-19.46.20:609][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.10.17-19.46.20:609][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.10.17-19.46.20:609][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.10.17-19.46.20:609][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.10.17-19.46.20:609][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.10.17-19.46.20:609][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.10.17-19.46.20:609][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.10.17-19.46.20:609][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.10.17-19.46.20:609][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.10.17-19.46.20:609][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.10.17-19.46.20:609][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.10.17-19.46.20:609][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.10.17-19.46.20:609][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.10.17-19.46.20:609][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.10.17-19.46.20:609][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.10.17-19.46.20:609][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.10.17-19.46.20:609][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.10.17-19.46.20:609][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.10.17-19.46.20:609][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.10.17-19.46.20:609][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.10.17-19.46.20:609][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.10.17-19.46.20:609][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.10.17-19.46.20:609][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.10.17-19.46.20:610][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.10.17-19.46.20:610][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.10.17-19.46.20:610][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.10.17-19.46.20:610][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.10.17-19.46.20:610][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/yash lahoti/Documents/Unreal Projects/CarProject/Saved/Config/Windows/Scalability.ini]
+[2021.10.17-19.46.20:610][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.10.17-19.46.20:610][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.10.17-19.46.20:610][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.10.17-19.46.20:610][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.10.17-19.46.20:610][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.10.17-19.46.20:610][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.10.17-19.46.20:610][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.10.17-19.46.20:610][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.10.17-19.46.20:610][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.10.17-19.46.20:610][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/yash lahoti/Documents/Unreal Projects/CarProject/Saved/Config/Windows/Scalability.ini]
+[2021.10.17-19.46.20:610][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.10.17-19.46.20:610][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.10.17-19.46.20:610][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.10.17-19.46.20:610][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.10.17-19.46.20:610][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.10.17-19.46.20:610][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.10.17-19.46.20:610][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.10.17-19.46.20:610][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.10.17-19.46.20:610][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.10.17-19.46.20:610][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.10.17-19.46.20:610][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.10.17-19.46.20:610][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.10.17-19.46.20:610][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.10.17-19.46.20:610][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.10.17-19.46.20:610][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.10.17-19.46.20:610][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.10.17-19.46.20:610][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.10.17-19.46.20:610][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.10.17-19.46.20:610][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.10.17-19.46.20:610][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.10.17-19.46.20:610][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.10.17-19.46.20:610][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.10.17-19.46.20:610][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.10.17-19.46.20:610][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.10.17-19.46.20:610][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.10.17-19.46.20:610][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.10.17-19.46.20:610][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.10.17-19.46.20:610][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/yash lahoti/Documents/Unreal Projects/CarProject/Saved/Config/Windows/Scalability.ini]
+[2021.10.17-19.46.20:610][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.10.17-19.46.20:610][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.10.17-19.46.20:610][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/yash lahoti/Documents/Unreal Projects/CarProject/Saved/Config/Windows/Scalability.ini]
+[2021.10.17-19.46.20:610][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.10.17-19.46.20:610][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.10.17-19.46.20:610][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.10.17-19.46.20:610][  0]LogInit: Selected Device Profile: [Windows]
+[2021.10.17-19.46.20:610][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.10.17-19.46.20:610][  0]LogHAL: Display: Platform has ~ 15 GB [16001875968 / 17179869184 / 15], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.10.17-19.46.20:610][  0]LogInit: Going up to parent DeviceProfile []
+[2021.10.17-19.46.20:610][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/yash lahoti/Documents/Unreal Projects/CarProject/Saved/Config/Windows/Scalability.ini]
+[2021.10.17-19.46.20:610][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.10.17-19.46.20:610][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.10.17-19.46.20:610][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/yash lahoti/Documents/Unreal Projects/CarProject/Saved/Config/Windows/Scalability.ini]
+[2021.10.17-19.46.20:610][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.10.17-19.46.20:610][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/yash lahoti/Documents/Unreal Projects/CarProject/Saved/Config/Windows/Scalability.ini]
+[2021.10.17-19.46.20:610][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.10.17-19.46.20:610][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.10.17-19.46.20:610][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.10.17-19.46.20:610][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.10.17-19.46.20:610][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.10.17-19.46.20:610][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.10.17-19.46.20:611][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.10.17-19.46.20:611][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.10.17-19.46.20:611][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.10.17-19.46.20:611][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.10.17-19.46.20:611][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.10.17-19.46.20:611][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.10.17-19.46.20:611][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.10.17-19.46.20:611][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.10.17-19.46.20:611][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.10.17-19.46.20:611][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.10.17-19.46.20:611][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.10.17-19.46.20:611][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.10.17-19.46.20:611][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/yash lahoti/Documents/Unreal Projects/CarProject/Saved/Config/Windows/Scalability.ini]
+[2021.10.17-19.46.20:611][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.10.17-19.46.20:611][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.10.17-19.46.20:611][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.10.17-19.46.20:611][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.10.17-19.46.20:611][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.10.17-19.46.20:611][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.10.17-19.46.20:611][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.10.17-19.46.20:611][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.10.17-19.46.20:611][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.10.17-19.46.20:611][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.10.17-19.46.20:611][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.10.17-19.46.20:611][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.10.17-19.46.20:611][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.10.17-19.46.20:611][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.10.17-19.46.20:611][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.10.17-19.46.20:611][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.10.17-19.46.20:611][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.10.17-19.46.20:611][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.10.17-19.46.20:611][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.10.17-19.46.20:611][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.10.17-19.46.20:611][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.10.17-19.46.20:611][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.10.17-19.46.20:611][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.10.17-19.46.20:611][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.10.17-19.46.20:611][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.10.17-19.46.20:611][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.10.17-19.46.20:611][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.10.17-19.46.20:611][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.10.17-19.46.20:611][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.10.17-19.46.20:611][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.10.17-19.46.20:611][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/yash lahoti/Documents/Unreal Projects/CarProject/Saved/Config/Windows/Scalability.ini]
+[2021.10.17-19.46.20:611][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.10.17-19.46.20:611][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.10.17-19.46.20:611][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.10.17-19.46.20:611][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.10.17-19.46.20:611][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.10.17-19.46.20:611][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.10.17-19.46.20:611][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.10.17-19.46.20:611][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.10.17-19.46.20:611][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.10.17-19.46.20:611][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/yash lahoti/Documents/Unreal Projects/CarProject/Saved/Config/Windows/Scalability.ini]
+[2021.10.17-19.46.20:611][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.10.17-19.46.20:611][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.10.17-19.46.20:611][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.10.17-19.46.20:611][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.10.17-19.46.20:611][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.10.17-19.46.20:611][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.10.17-19.46.20:611][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.10.17-19.46.20:611][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.10.17-19.46.20:611][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.10.17-19.46.20:611][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.10.17-19.46.20:611][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.10.17-19.46.20:611][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.10.17-19.46.20:611][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.10.17-19.46.20:611][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.10.17-19.46.20:611][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.10.17-19.46.20:611][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.10.17-19.46.20:611][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.10.17-19.46.20:611][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.10.17-19.46.20:611][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.10.17-19.46.20:611][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.10.17-19.46.20:611][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.10.17-19.46.20:611][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.10.17-19.46.20:611][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.10.17-19.46.20:612][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.10.17-19.46.20:612][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.10.17-19.46.20:612][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.10.17-19.46.20:612][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.10.17-19.46.20:612][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/yash lahoti/Documents/Unreal Projects/CarProject/Saved/Config/Windows/Scalability.ini]
+[2021.10.17-19.46.20:612][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.10.17-19.46.20:612][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.10.17-19.46.20:612][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/yash lahoti/Documents/Unreal Projects/CarProject/Saved/Config/Windows/Scalability.ini]
+[2021.10.17-19.46.20:612][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.10.17-19.46.20:612][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.10.17-19.46.20:612][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.10.17-19.46.20:612][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.10.17-19.46.20:613][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.10.17-19.46.20:613][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.10.17-19.46.20:613][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.10.17-19.46.20:613][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/yash lahoti/Documents/Unreal Projects/CarProject/Saved/Config/Windows/Engine.ini]
+[2021.10.17-19.46.20:613][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/yash lahoti/Documents/Unreal Projects/CarProject/Saved/Config/Windows/Editor.ini]
+[2021.10.17-19.46.20:613][  0]LogInit: Computer: DESKTOP-RSJ1P9H
+[2021.10.17-19.46.20:613][  0]LogInit: User: yashlahoti
+[2021.10.17-19.46.20:613][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.10.17-19.46.20:613][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.10.17-19.46.20:613][  0]LogMemory: Memory total: Physical=14.9GB (15GB approx)
+[2021.10.17-19.46.20:613][  0]LogMemory: Platform Memory Stats for Windows
+[2021.10.17-19.46.20:613][  0]LogMemory: Process Physical Memory: 131.12 MB used, 131.13 MB peak
+[2021.10.17-19.46.20:613][  0]LogMemory: Process Virtual Memory: 108.85 MB used, 108.85 MB peak
+[2021.10.17-19.46.20:613][  0]LogMemory: Physical Memory: 4943.03 MB used,  10317.55 MB free, 15260.58 MB total
+[2021.10.17-19.46.20:613][  0]LogMemory: Virtual Memory: 134206368.00 MB used,  11356.73 MB free, 134217728.00 MB total
+[2021.10.17-19.46.20:620][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.10.17-19.46.20:656][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.10.17-19.46.20:656][  0]LogInit: Using OS detected language (en-US).
+[2021.10.17-19.46.20:656][  0]LogInit: Using OS detected locale (en-IN).
+[2021.10.17-19.46.20:661][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.10.17-19.46.20:938][  0]LogInit: Setting process to per monitor DPI aware
+[2021.10.17-19.46.20:953][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.10.17-19.46.20:971][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.10.17-19.46.20:971][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.10.17-19.46.21:194][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.10.17-19.46.21:194][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.10.17-19.46.21:195][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.10.17-19.46.21:195][  0]LogD3D11RHI: D3D11 adapters:
+[2021.10.17-19.46.21:254][  0]LogD3D11RHI:    0. 'Radeon RX 560X Series' (Feature Level 11_0)
+[2021.10.17-19.46.21:254][  0]LogD3D11RHI:       4077/0/7630 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2021.10.17-19.46.21:292][  0]LogD3D11RHI:    1. 'AMD Radeon(TM) Vega 8 Graphics' (Feature Level 11_0)
+[2021.10.17-19.46.21:292][  0]LogD3D11RHI:       1009/0/7630 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1002
+[2021.10.17-19.46.21:296][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.10.17-19.46.21:296][  0]LogD3D11RHI:       0/0/7630 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.10.17-19.46.21:296][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.10.17-19.46.21:307][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.10.17-19.46.21:307][  0]LogD3D11RHI:     GPU DeviceId: 0x67ef (for the marketing name, search the web for "GPU Device Id")
+[2021.10.17-19.46.21:307][  0]LogWindows: EnumDisplayDevices:
+[2021.10.17-19.46.21:308][  0]LogWindows:    0. 'AMD Radeon(TM) Vega 8 Graphics' (P:1 D:1)
+[2021.10.17-19.46.21:308][  0]LogWindows:    1. 'AMD Radeon(TM) Vega 8 Graphics' (P:0 D:0)
+[2021.10.17-19.46.21:309][  0]LogWindows:    2. 'AMD Radeon(TM) Vega 8 Graphics' (P:0 D:0)
+[2021.10.17-19.46.21:309][  0]LogWindows:    3. 'AMD Radeon(TM) Vega 8 Graphics' (P:0 D:0)
+[2021.10.17-19.46.21:309][  0]LogWindows:    4. 'Radeon RX 560X Series' (P:0 D:0)
+[2021.10.17-19.46.21:310][  0]LogWindows:    5. 'Radeon RX 560X Series' (P:0 D:0)
+[2021.10.17-19.46.21:310][  0]LogWindows:    6. 'Radeon RX 560X Series' (P:0 D:0)
+[2021.10.17-19.46.21:310][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:3 
+[2021.10.17-19.46.21:310][  0]LogD3D11RHI:     Adapter Name: Radeon RX 560X Series
+[2021.10.17-19.46.21:310][  0]LogD3D11RHI:   Driver Version: Adrenalin 2020 20.4.2 (internal:26.20.15029.27016, unified:26.20.15029.27016)
+[2021.10.17-19.46.21:310][  0]LogD3D11RHI:      Driver Date: 4-21-2020
+[2021.10.17-19.46.21:310][  0]LogRHI: Texture pool is 2425 MB (70% of 3465 MB)
+[2021.10.17-19.46.21:381][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.10.17-19.46.21:381][  0]LogD3D11RHI: Async texture creation enabled
+[2021.10.17-19.46.21:381][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.10.17-19.46.21:396][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2021.10.17-19.46.21:837][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.10.17-19.46.21:876][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.10.17-19.46.21:876][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.10.17-19.46.21:876][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.10.17-19.46.21:876][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.10.17-19.46.21:876][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.10.17-19.46.21:876][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.10.17-19.46.21:876][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.10.17-19.46.21:876][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.10.17-19.46.21:876][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.10.17-19.46.21:876][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.10.17-19.46.21:920][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.10.17-19.46.21:921][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.10.17-19.46.21:940][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.10.17-19.46.21:957][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.10.17-19.46.21:972][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.10.17-19.46.21:991][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.10.17-19.46.22:007][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.10.17-19.46.22:022][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.10.17-19.46.22:036][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.10.17-19.46.22:088][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.10.17-19.46.22:089][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.10.17-19.46.22:104][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.10.17-19.46.22:120][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.10.17-19.46.22:137][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.10.17-19.46.22:152][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.10.17-19.46.22:175][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.10.17-19.46.22:175][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.10.17-19.46.22:190][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.10.17-19.46.22:207][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.10.17-19.46.22:221][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.10.17-19.46.22:237][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.10.17-19.46.22:240][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.10.17-19.46.22:252][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.10.17-19.46.22:358][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.10.17-19.46.22:358][  0]LogShaderCompilers: Guid format shader working directory is -21 characters bigger than the processId version (../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Intermediate/Shaders/WorkingDirectory/14784/).
+[2021.10.17-19.46.22:358][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/yash lahoti/AppData/Local/Temp/UnrealShaderWorkingDir/0901AF5747AE5902FFD55487F7EAF69D/'.
+[2021.10.17-19.46.22:359][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.10.17-19.46.22:359][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.10.17-19.46.23:391][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.10.17-19.46.23:429][  0]LogDerivedDataCache: Loaded boot cache 0.04s 45MB C:/Users/yash lahoti/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.10.17-19.46.23:429][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/yash lahoti/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.10.17-19.46.23:430][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.10.17-19.46.23:430][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.10.17-19.46.23:430][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.10.17-19.46.23:430][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.10.17-19.46.23:446][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.10.17-19.46.23:447][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.10.17-19.46.23:447][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.10.17-19.46.23:467][  0]LogDerivedDataCache: Speed tests for C:/Users/yash lahoti/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
+[2021.10.17-19.46.23:467][  0]LogDerivedDataCache: Display: Performance to C:/Users/yash lahoti/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.06ms. RandomReadSpeed=111.15MBs, RandomWriteSpeed=82.77MBs. Assigned SpeedClass 'Local'
+[2021.10.17-19.46.23:468][  0]LogDerivedDataCache: Using Local data cache path C:/Users/yash lahoti/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.10.17-19.46.23:469][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.10.17-19.46.23:469][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.10.17-19.46.23:530][  0]LogSlate: Using FreeType 2.10.0
+[2021.10.17-19.46.23:531][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.10.17-19.46.23:564][  0]LogAssetRegistry: FAssetRegistry took 0.0044 seconds to start up
+[2021.10.17-19.46.23:923][  0]LogInit: Selected Device Profile: [Windows]
+[2021.10.17-19.46.23:923][  0]LogInit: Active device profile: [000002111586AB00][0000021114C49400 49] Windows
+[2021.10.17-19.46.23:923][  0]LogInit: Profiles: [000002111586AB00][0000021114C49400 49] Windows, [0000021115889700][0000021114C6F580 49] WindowsNoEditor, [0000021115869700][0000021114C4D6C0 49] WindowsServer, [000002111588AB00][0000021114C97800 49] WindowsClient, [000002111586AD00][0000021114C9B940 49] IOS, [000002111588B700][0000021114CA3AC0 49] iPadAir, [0000021115869400][0000021114CA7C40 49] iPadAir2, [00000211155FBE00][0000021114CBA240 49] IPadPro, [00000211155FBF00][0000021114CB6280 49] iPadAir3, [000002111586AC00][0000021114CBE400 49] iPadAir4, [00000211155F9C00][0000021114CC2580 49] iPadMini2, [0000021115869600][0000021114CCA700 49] iPadMini3, [00000211155FBA00][0000021114CCE880 49] iPadMini4, [0000021115868B00][0000021114CD2A00 49] iPadMini5, [000002111562B700][0000021114CDACC0 49] iPhone6, [000002111562B800][0000021114CD6D00 49] iPodTouch6, [00000211155F9B00][0000021114CEEFC0 49] iPhone7, [00000211155F9A00][0000021114CEB000 49] iPodTouch7, [0000021115629B00][0000021114CF3180 49] iPhone5S, [00000211155FA000][0000021114CF7300 49] iPhone6Plus, [000002111562BD00][0000021114CFB480 49] iPhone6S, [00000211155F9600][0000021114CFF600 49] iPhone6SPlus, [0000021115629700][0000021114C9F740 49] iPhone7Plus, [00000211155F8500][0000021114D1B880 49] iPhoneSE, [000002111562A000][0000021114D1F9C0 49] iPhone8, [00000211155FBD00][0000021114D27B40 49] iPhone8Plus, [000002111562BB00][0000021114D4BCC0 49] iPhoneX, [00000211155FA200][0000021114D4E180 49] iPhoneXS, [000002111562A200][0000021114D52300 49] iPhoneXSMax, [00000211155F9F00][0000021114D56480 49] iPhoneXR, [000002111562AA00][0000021114D5A600 49] iPhone11, [00000211155FBB00][0000021114D5E780 49] iPhone11Pro, [0000021115629300][0000021114D62900 49] iPhone11ProMax, [00000211155F9700][0000021114D66A80 49] iPhoneSE2, [000002111562AB00][0000021114D6AC00 49] iPhone12Mini, [00000211155F9100][0000021114D6ED80 49] iPhone12, [0000021115628900][0000021114D72F00 49] iPhone12Pro, [00000211155FB900][0000021114D77080 49] iPhone12ProMax, [000002111562AD00][0000021114D7B200 49] iPadPro105, [00000211155F8A00][0000021114D7F380 49] iPadPro129, [0000021115629C00][0000021114D83500 49] iPadPro97, [00000211155F9800][0000021114D87680 49] iPadPro2_129, [000002111562BE00][0000021114D237C0 49] iPad5, [00000211155F8400][0000021114D8B900 49] iPad6, [000002111562A700][0000021114D8FA40 49] iPad7, [00000211155F9900][0000021114D93B80 49] iPad8, [000002111562B600][0000021114D9BD00 49] iPadPro11, [00000211155FAE00][0000021114D9E1C0 49] iPadPro2_11, [000002111562BC00][0000021114DA2340 49] iPadPro3_129, [00000211155FA900][0000021114DA64C0 49] iPadPro4_129, [00000211155FAF00][0000021114DAA640 49] AppleTV, [000002111588B400][0000021114DAE7C0 49] AppleTV4K, [0000021115A20400][0000021114DB2940 49] TVOS, [000002111588AF00][0000021114DB6AC0 49] Mac, [0000021115629800][0000021114DBAC40 49] MacClient, [000002111588B000][0000021114DBEDC0 49] MacNoEditor, [0000021115629200][0000021114DC2F40 49] MacServer, [0000021115888F00][0000021114DC70C0 49] Linux, [0000021115628100][0000021114DCB240 49] LinuxAArch64, [0000021115888300][0000021114DCF3C0 49] LinuxNoEditor, [0000021115629600][0000021114DD3540 49] LinuxAArch64NoEditor, [000002111588BB00][0000021114DD76C0 49] LinuxClient, [000002111562AC00][0000021114D97800 49] LinuxAArch64Client, [0000021115889300][0000021114DDB940 49] LinuxServer, [0000021115629100][0000021114DDFA80 49] LinuxAArch64Server, [0000021115888100][0000021114DE3BC0 49] Android, [0000021115628600][0000021114DEBD40 49] Android_Low, [0000021115888D00][0000021114DEE200 49] Android_Mid, [0000021115628700][0000021114DF2380 49] Android_High, [0000021115888B00][0000021114DF6500 49] Android_Default, [000002111562BA00][0000021114DFA680 49] Android_Adreno4xx, [0000021115889900][0000021114DFE800 49] Android_Adreno5xx_Low, [0000021115628F00][0000021114E02980 49] Android_Adreno5xx, [000002111588B200][0000021114E06B00 49] Android_Adreno6xx, [000002111562A300][0000021114E0AC80 49] Android_Adreno6xx_Vulkan, [000002111588A800][0000021114E0EE00 49] Android_Mali_T6xx, [0000021115629400][0000021114E12F80 49] Android_Mali_T7xx, [000002111588B800][0000021114E17100 49] Android_Mali_T8xx, [0000021115628B00][0000021114E1B280 49] Android_Mali_G71, [0000021115889F00][0000021114E1F400 49] Android_Mali_G72, [000002111562A500][0000021114E23580 49] Android_Mali_G72_Vulkan, [000002111588A200][0000021114E27700 49] Android_Mali_G76, [0000021115628E00][0000021114E2B880 49] Android_Mali_G76_Vulkan, [000002111588B500][0000021114DE79C0 49] Android_Mali_G77, [0000021115629500][0000021114E2FB00 49] Android_Mali_G77_Vulkan, [000002111588BA00][0000021114E33C40 49] Android_Vulkan_SM5, [000002111562AF00][0000021114E3A100 49] Android_PowerVR_G6xxx, [0000021115889800][0000021114E3E280 49] Android_PowerVR_GT7xxx, [0000021115629A00][0000021114E42400 49] Android_PowerVR_GE8xxx, [0000021115889100][0000021114E46580 49] Android_PowerVR_GM9xxx, [000002111562AE00][0000021114E4A700 49] Android_PowerVR_GM9xxx_Vulkan, [000002111588B100][0000021114E4E880 49] Android_TegraK1, [00000211155FA800][0000021114E52A00 49] Android_Unknown_Vulkan, [0000021115869100][0000021114E56B80 49] Lumin, [00000211155F8600][0000021114E5AD00 49] Lumin_Desktop, [000002111586BA00][0000021114E5EE80 49] HoloLens, 
+[2021.10.17-19.46.24:074][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.10.17-19.46.24:075][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.10.17-19.46.24:075][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.10.17-19.46.24:075][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.10.17-19.46.24:075][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.10.17-19.46.24:098][  0]LogNetVersion: CarProject 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2647613612)
+[2021.10.17-19.46.24:643][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.10.17-19.46.24:719][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.074748 seconds
+[2021.10.17-19.46.24:726][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.10.17-19.46.24:726][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.10.17-19.46.24:726][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.10.17-19.46.25:140][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.10.17-19.46.25:146][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.10.17-19.46.25:431][  0]SourceControl: Source control is disabled
+[2021.10.17-19.46.25:431][  0]SourceControl: Source control is disabled
+[2021.10.17-19.46.25:438][  0]SourceControl: Source control is disabled
+[2021.10.17-19.46.25:447][  0]SourceControl: Source control is disabled
+[2021.10.17-19.46.25:470][  0]SourceControl: Source control is disabled
+[2021.10.17-19.46.25:480][  0]LogUProjectInfo: Found projects:
+[2021.10.17-19.46.25:739][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.10.17-19.46.25:769][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.10.17-19.46.25:769][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.10.17-19.46.25:944][  0]LogOcInput: OculusInput pre-init called
+[2021.10.17-19.46.25:961][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.10.17-19.46.25:961][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.10.17-19.46.25:976][  0]LogCollectionManager: Loaded 0 collections in 0.004245 seconds
+[2021.10.17-19.46.26:051][  0]LogFileCache: Scanning file cache for directory 'C:/Users/yash lahoti/Documents/Unreal Projects/CarProject/Saved/Collections/' took 0.00s
+[2021.10.17-19.46.26:051][  0]LogFileCache: Scanning file cache for directory 'C:/Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/Developers/yashlahoti/Collections/' took 0.00s
+[2021.10.17-19.46.26:051][  0]LogFileCache: Scanning file cache for directory 'C:/Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/Collections/' took 0.00s
+[2021.10.17-19.46.26:051][  0]LogEngine: Initializing Engine...
+[2021.10.17-19.46.26:052][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.10.17-19.46.26:053][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.10.17-19.46.26:054][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.10.17-19.46.26:147][  0]LogLinker: Warning: Failed to load '/Engine/EngineMaterials/DefaultBloomKernel': Can't find file.
+[2021.10.17-19.46.26:147][  0]LogLinker: Warning: Failed to load '/Engine/EngineMaterials/DefaultBloomKernel': Can't find file.
+[2021.10.17-19.46.26:147][  0]LogUObjectGlobals: Warning: Failed to find object 'Texture2D /Engine/EngineMaterials/DefaultBloomKernel.DefaultBloomKernel'
+[2021.10.17-19.46.26:155][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.10.17-19.46.26:164][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.10.17-19.46.26:164][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.10.17-19.46.26:169][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.10.17-19.46.26:169][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.10.17-19.46.26:169][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.17-19.46.26:169][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.17-19.46.26:169][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.17-19.46.26:169][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.17-19.46.26:169][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.17-19.46.26:169][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.17-19.46.26:169][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.17-19.46.26:169][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.17-19.46.26:170][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.17-19.46.26:170][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.17-19.46.26:186][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.17-19.46.26:186][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.10.17-19.46.26:354][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.10.17-19.46.26:355][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.17-19.46.26:358][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.17-19.46.26:358][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.17-19.46.26:359][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.17-19.46.26:359][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.17-19.46.26:359][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.17-19.46.26:361][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.17-19.46.26:361][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.17-19.46.26:361][  0]LogInit: FAudioDevice initialized.
+[2021.10.17-19.46.26:361][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.10.17-19.46.26:361][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.10.17-19.46.26:404][  0]LogDerivedDataCache: Saved boot cache 0.04s 45MB C:/Users/yash lahoti/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.10.17-19.46.26:405][  0]LogInit: Texture streaming: Enabled
+[2021.10.17-19.46.26:424][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.10.17-19.46.26:429][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.10.17-19.46.26:429][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.10.17-19.46.26:432][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.10.17-19.46.26:474][  0]LogInit: Transaction tracking system initialized
+[2021.10.17-19.46.26:507][  0]BlueprintLog: New page: Editor Load
+[2021.10.17-19.46.26:624][  0]LocalizationService: Localization service is disabled
+[2021.10.17-19.46.26:662][  0]TimingProfiler: Initialize
+[2021.10.17-19.46.26:662][  0]TimingProfiler: OnSessionChanged
+[2021.10.17-19.46.26:662][  0]LoadingProfiler: Initialize
+[2021.10.17-19.46.26:663][  0]LoadingProfiler: OnSessionChanged
+[2021.10.17-19.46.26:663][  0]NetworkingProfiler: Initialize
+[2021.10.17-19.46.26:663][  0]NetworkingProfiler: OnSessionChanged
+[2021.10.17-19.46.26:663][  0]MemoryProfiler: Initialize
+[2021.10.17-19.46.26:663][  0]MemoryProfiler: OnSessionChanged
+[2021.10.17-19.46.27:310][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.10.17-19.46.27:310][  0]LogCook: Display: Mobile HDR setting 1
+[2021.10.17-19.46.27:531][  0]LogFileCache: Scanning file cache for directory 'C:/Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/' took 0.01s
+[2021.10.17-19.46.27:738][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.10.17-19.46.27:743][  0]SourceControl: Source control is disabled
+[2021.10.17-19.46.27:743][  0]LogUnrealEdMisc: Loading editor; pre map load, took 8.628
+[2021.10.17-19.46.27:743][  0]Cmd: MAP LOAD FILE="../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/Maps/MainMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.10.17-19.46.27:744][  0]LightingResults: New page: Lighting Build
+[2021.10.17-19.46.27:745][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.10.17-19.46.27:745][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.17-19.46.27:746][  0]MapCheck: New page: Map Check
+[2021.10.17-19.46.27:746][  0]LightingResults: New page: Lighting Build
+[2021.10.17-19.46.27:754][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2021.10.17-19.46.30:056][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMap'.
+[2021.10.17-19.46.30:058][  0]LogAIModule: Creating AISystem for world MainMap
+[2021.10.17-19.46.30:077][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.10.17-19.46.30:098][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2021.10.17-19.46.30:099][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.10.17-19.46.30:099][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.308ms to complete.
+[2021.10.17-19.46.30:099][  0]LogFileHelpers: Loading map 'MainMap' took 2.356
+[2021.10.17-19.46.30:106][  0]LogUnrealEdMisc: Total Editor Startup Time, took 10.991
+[2021.10.17-19.46.30:288][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.17-19.46.30:300][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.17-19.46.30:309][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.17-19.46.30:318][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.17-19.46.30:372][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0132 seconds. Added 3607 classes and 861 folders.
+[2021.10.17-19.46.30:383][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.10.17-19.46.30:392][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.10.17-19.46.30:392][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.17-19.46.30:392][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.10.17-19.46.30:392][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2021.10.17-19.46.30:396][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.10.17-19.46.30:396][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.17-19.46.30:396][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.10.17-19.46.30:396][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.10.17-19.46.30:399][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.10.17-19.46.30:399][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.17-19.46.30:399][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.10.17-19.46.30:399][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.10.17-19.46.30:401][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.17-19.46.30:401][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.17-19.46.30:401][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.10.17-19.46.30:401][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.10.17-19.46.30:403][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.10.17-19.46.30:403][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.17-19.46.30:403][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.10.17-19.46.30:403][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.10.17-19.46.30:406][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.10.17-19.46.30:406][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.17-19.46.30:406][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.10.17-19.46.30:406][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.10.17-19.46.30:408][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.10.17-19.46.30:408][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.17-19.46.30:408][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.10.17-19.46.30:409][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.10.17-19.46.30:411][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.10.17-19.46.30:411][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.17-19.46.30:411][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.10.17-19.46.30:411][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2021.10.17-19.46.30:413][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.10.17-19.46.30:413][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.17-19.46.30:413][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.10.17-19.46.30:413][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2021.10.17-19.46.30:415][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.10.17-19.46.30:415][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.17-19.46.30:415][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.10.17-19.46.30:415][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2021.10.17-19.46.30:417][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.10.17-19.46.30:417][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.17-19.46.30:417][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.10.17-19.46.30:417][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2021.10.17-19.46.30:420][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.10.17-19.46.30:420][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.17-19.46.30:420][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.10.17-19.46.30:420][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2021.10.17-19.46.30:423][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.17-19.46.30:423][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.17-19.46.30:423][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.10.17-19.46.30:423][  0]LogPakFile: OnPakFileMounted2Time == 0.000058
+[2021.10.17-19.46.30:425][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.10.17-19.46.30:425][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.17-19.46.30:425][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.10.17-19.46.30:425][  0]LogPakFile: OnPakFileMounted2Time == 0.000062
+[2021.10.17-19.46.30:427][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.10.17-19.46.30:427][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.17-19.46.30:427][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.10.17-19.46.30:427][  0]LogPakFile: OnPakFileMounted2Time == 0.000065
+[2021.10.17-19.46.30:429][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.10.17-19.46.30:429][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.17-19.46.30:430][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.10.17-19.46.30:430][  0]LogPakFile: OnPakFileMounted2Time == 0.000068
+[2021.10.17-19.46.30:432][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.10.17-19.46.30:432][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.17-19.46.30:432][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.10.17-19.46.30:432][  0]LogPakFile: OnPakFileMounted2Time == 0.000072
+[2021.10.17-19.46.30:434][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.10.17-19.46.30:434][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.17-19.46.30:434][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.10.17-19.46.30:434][  0]LogPakFile: OnPakFileMounted2Time == 0.000077
+[2021.10.17-19.46.30:437][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.17-19.46.30:437][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.17-19.46.30:437][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.10.17-19.46.30:437][  0]LogPakFile: OnPakFileMounted2Time == 0.000081
+[2021.10.17-19.46.30:439][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.17-19.46.30:439][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.17-19.46.30:439][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.10.17-19.46.30:439][  0]LogPakFile: OnPakFileMounted2Time == 0.000084
+[2021.10.17-19.46.30:441][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.10.17-19.46.30:441][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.17-19.46.30:441][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.10.17-19.46.30:441][  0]LogPakFile: OnPakFileMounted2Time == 0.000087
+[2021.10.17-19.46.30:443][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.10.17-19.46.30:443][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.17-19.46.30:443][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.10.17-19.46.30:443][  0]LogPakFile: OnPakFileMounted2Time == 0.000091
+[2021.10.17-19.46.30:446][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.10.17-19.46.30:446][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.17-19.46.30:446][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.10.17-19.46.30:446][  0]LogPakFile: OnPakFileMounted2Time == 0.000094
+[2021.10.17-19.46.30:448][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.10.17-19.46.30:448][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.17-19.46.30:448][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.10.17-19.46.30:448][  0]LogPakFile: OnPakFileMounted2Time == 0.000097
+[2021.10.17-19.46.30:451][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.10.17-19.46.30:451][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.17-19.46.30:451][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.10.17-19.46.30:451][  0]LogPakFile: OnPakFileMounted2Time == 0.000101
+[2021.10.17-19.46.30:453][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.10.17-19.46.30:453][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.10.17-19.46.30:453][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.10.17-19.46.30:453][  0]LogPakFile: OnPakFileMounted2Time == 0.000105
+[2021.10.17-19.46.30:605][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.10.17-19.46.30:612][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 0 folders.
+[2021.10.17-19.46.30:927][  0]LogSlate: Took 0.000334 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.10.17-19.46.30:930][  0]LogSlate: Took 0.000520 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.10.17-19.46.30:940][  0]LogSlate: Took 0.001474 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.10.17-19.46.31:088][  0]LogRenderer: Reallocating scene render targets to support 992x460 Format 10 NumSamples 1 (Frame:1).
+[2021.10.17-19.46.31:370][  0]LogSlate: Took 0.001546 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.10.17-19.46.31:514][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.10.17-19.46.31:514][  0]LogLoad: (Engine Initialization) Total time: 12.40 seconds
+[2021.10.17-19.46.31:515][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.10.17-19.46.31:515][  0]LogInit: First time updating LLM stats...
+[2021.10.17-19.46.31:579][  0]LogAssetRegistry: Asset discovery search completed in 8.0170 seconds
+[2021.10.17-19.46.31:581][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
+[2021.10.17-19.46.31:651][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.10.17-19.46.32:541][ 83]LogSlate: Took 0.000247 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.10.17-19.46.37:000][339]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.17-19.46.37:009][339]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.17-19.46.37:014][339]PIE: New page: PIE session: MainMap (18-Oct-2021, 6:46:37 am)
+[2021.10.17-19.46.37:016][339]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.10.17-19.46.37:019][339]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.10.17-19.46.37:019][339]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2021.10.17-19.46.37:025][339]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005880s)
+[2021.10.17-19.46.37:027][339]LogAIModule: Creating AISystem for world MainMap
+[2021.10.17-19.46.37:028][339]LogPlayLevel: PIE: World Init took: (0.001933s)
+[2021.10.17-19.46.37:028][339]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.008691s)
+[2021.10.17-19.46.37:035][339]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2021.10.17-19.46.37:037][339]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.10.17-19.46.37:037][339]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.17-19.46.37:037][339]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.17-19.46.37:037][339]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.17-19.46.37:037][339]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.17-19.46.37:037][339]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.17-19.46.37:037][339]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.17-19.46.37:037][339]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.17-19.46.37:037][339]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.17-19.46.37:038][339]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.17-19.46.37:038][339]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.17-19.46.37:040][339]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.17-19.46.37:040][339]LogAudioMixer: Display: 1: FrontRight
+[2021.10.17-19.46.37:064][339]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.10.17-19.46.37:065][339]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.17-19.46.37:065][339]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.17-19.46.37:065][339]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.17-19.46.37:065][339]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.17-19.46.37:065][339]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.17-19.46.37:065][339]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.17-19.46.37:095][339]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.17-19.46.37:095][339]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.17-19.46.37:095][339]LogInit: FAudioDevice initialized.
+[2021.10.17-19.46.37:095][339]LogAudio: Display: Audio Device (ID: 2) registered with world 'MainMap'.
+[2021.10.17-19.46.37:107][339]LogLoad: Game class is 'BP_CarProjectGameModeBase_C'
+[2021.10.17-19.46.37:112][339]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2021.10.18-01.16.37
+[2021.10.17-19.46.37:113][339]LogWorld: Bringing up level for play took: 0.004059
+[2021.10.17-19.46.37:113][339]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2021.10.17-19.46.37:123][339]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2021.10.17-19.46.37:134][339]LogTemp: Warning: Worked..!
+[2021.10.17-19.46.37:136][339]LogBlueprintUserMessages: [BP_Chevrolate_C_0] false
+[2021.10.17-19.46.37:136][339]LogTemp: Warning: Worked..!
+[2021.10.17-19.46.37:136][339]PIE: Server logged in
+[2021.10.17-19.46.37:138][339]PIE: Play in editor total start time 0.13 seconds.
+[2021.10.17-19.46.39:733][494]LogActor: Warning: BP_MiniGun_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_MiniGun_C_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2021.10.17-19.46.39:734][494]LogActor: Warning: BP_MiniGun_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_MiniGun_C_1 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2021.10.17-19.46.40:314][528]LogActor: Warning: BP_HGProjectile_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_HGProjectile_C_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2021.10.17-19.46.40:314][528]LogActor: Warning: BP_HGProjectile_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_HGProjectile_C_1 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2021.10.17-19.46.40:315][528]LogActor: Warning: BP_HGProjectile_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_HGProjectile_C_2 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2021.10.17-19.46.40:315][528]LogActor: Warning: BP_HGProjectile_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_HGProjectile_C_3 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2021.10.17-19.46.40:316][528]LogBlueprintUserMessages: [BP_MiniGun_C_0] 150/49
+[2021.10.17-19.46.40:317][528]LogActor: Warning: BP_HGProjectile_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_HGProjectile_C_4 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2021.10.17-19.46.40:317][528]LogActor: Warning: BP_HGProjectile_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_HGProjectile_C_5 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2021.10.17-19.46.40:317][528]LogActor: Warning: BP_HGProjectile_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_HGProjectile_C_6 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2021.10.17-19.46.40:317][528]LogActor: Warning: BP_HGProjectile_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_HGProjectile_C_7 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2021.10.17-19.46.40:318][528]LogBlueprintUserMessages: [BP_MiniGun_C_1] 150/49
+[2021.10.17-19.46.43:748][734]LogActor: Warning: BP_HeadGun_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_HeadGun_C_0 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2021.10.17-19.46.44:325][768]LogActor: Warning: BP_HGProjectile_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_HGProjectile_C_8 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2021.10.17-19.46.44:326][768]LogActor: Warning: BP_HGProjectile_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_HGProjectile_C_9 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2021.10.17-19.46.44:326][768]LogActor: Warning: BP_HGProjectile_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_HGProjectile_C_10 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2021.10.17-19.46.44:326][768]LogActor: Warning: BP_HGProjectile_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_HGProjectile_C_11 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2021.10.17-19.46.44:326][768]LogBlueprintUserMessages: [BP_MiniGun_C_0] 150/48
+[2021.10.17-19.46.44:327][768]LogActor: Warning: BP_HGProjectile_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_HGProjectile_C_12 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2021.10.17-19.46.44:327][768]LogActor: Warning: BP_HGProjectile_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_HGProjectile_C_13 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2021.10.17-19.46.44:327][768]LogActor: Warning: BP_HGProjectile_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_HGProjectile_C_14 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2021.10.17-19.46.44:327][768]LogActor: Warning: BP_HGProjectile_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_HGProjectile_C_15 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2021.10.17-19.46.44:327][768]LogBlueprintUserMessages: [BP_MiniGun_C_1] 150/48
+[2021.10.17-19.46.44:562][782]LogActor: Warning: BP_HGProjectile_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_HGProjectile_C_16 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2021.10.17-19.46.44:562][782]LogActor: Warning: BP_HGProjectile_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_HGProjectile_C_17 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2021.10.17-19.46.44:563][782]LogActor: Warning: BP_HGProjectile_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_HGProjectile_C_18 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2021.10.17-19.46.44:563][782]LogActor: Warning: BP_HGProjectile_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_HGProjectile_C_19 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2021.10.17-19.46.44:563][782]LogBlueprintUserMessages: [BP_MiniGun_C_0] 150/47
+[2021.10.17-19.46.44:563][782]LogActor: Warning: BP_HGProjectile_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_HGProjectile_C_20 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2021.10.17-19.46.44:563][782]LogActor: Warning: BP_HGProjectile_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_HGProjectile_C_21 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2021.10.17-19.46.44:563][782]LogActor: Warning: BP_HGProjectile_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_HGProjectile_C_22 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2021.10.17-19.46.44:564][782]LogActor: Warning: BP_HGProjectile_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_HGProjectile_C_23 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2021.10.17-19.46.44:564][782]LogBlueprintUserMessages: [BP_MiniGun_C_1] 150/47
+[2021.10.17-19.46.44:822][797]LogActor: Warning: BP_HGProjectile_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_HGProjectile_C_24 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2021.10.17-19.46.44:823][797]LogActor: Warning: BP_HGProjectile_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_HGProjectile_C_25 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2021.10.17-19.46.44:823][797]LogActor: Warning: BP_HGProjectile_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_HGProjectile_C_26 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2021.10.17-19.46.44:823][797]LogActor: Warning: BP_HGProjectile_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_HGProjectile_C_27 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2021.10.17-19.46.44:823][797]LogBlueprintUserMessages: [BP_MiniGun_C_0] 150/46
+[2021.10.17-19.46.44:823][797]LogActor: Warning: BP_HGProjectile_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_HGProjectile_C_28 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2021.10.17-19.46.44:823][797]LogActor: Warning: BP_HGProjectile_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_HGProjectile_C_29 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2021.10.17-19.46.44:824][797]LogActor: Warning: BP_HGProjectile_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_HGProjectile_C_30 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2021.10.17-19.46.44:824][797]LogActor: Warning: BP_HGProjectile_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_HGProjectile_C_31 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2021.10.17-19.46.44:824][797]LogBlueprintUserMessages: [BP_MiniGun_C_1] 150/46
+[2021.10.17-19.46.45:212][820]LogActor: Warning: BP_HGProjectile_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_HGProjectile_C_32 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2021.10.17-19.46.45:212][820]LogActor: Warning: BP_HGProjectile_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_HGProjectile_C_33 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2021.10.17-19.46.45:212][820]LogActor: Warning: BP_HGProjectile_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_HGProjectile_C_34 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2021.10.17-19.46.45:213][820]LogActor: Warning: BP_HGProjectile_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_HGProjectile_C_35 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2021.10.17-19.46.45:213][820]LogBlueprintUserMessages: [BP_MiniGun_C_0] 150/45
+[2021.10.17-19.46.45:213][820]LogActor: Warning: BP_HGProjectile_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_HGProjectile_C_36 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2021.10.17-19.46.45:213][820]LogActor: Warning: BP_HGProjectile_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_HGProjectile_C_37 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2021.10.17-19.46.45:214][820]LogActor: Warning: BP_HGProjectile_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_HGProjectile_C_38 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2021.10.17-19.46.45:214][820]LogActor: Warning: BP_HGProjectile_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_HGProjectile_C_39 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2021.10.17-19.46.45:214][820]LogBlueprintUserMessages: [BP_MiniGun_C_1] 150/45
+[2021.10.17-19.46.45:379][830]LogActor: Warning: BP_HGProjectile_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_HGProjectile_C_40 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2021.10.17-19.46.45:379][830]LogActor: Warning: BP_HGProjectile_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_HGProjectile_C_41 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2021.10.17-19.46.45:379][830]LogActor: Warning: BP_HGProjectile_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_HGProjectile_C_42 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2021.10.17-19.46.45:379][830]LogActor: Warning: BP_HGProjectile_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_HGProjectile_C_43 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2021.10.17-19.46.45:380][830]LogBlueprintUserMessages: [BP_MiniGun_C_0] 150/44
+[2021.10.17-19.46.45:380][830]LogActor: Warning: BP_HGProjectile_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_HGProjectile_C_44 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2021.10.17-19.46.45:380][830]LogActor: Warning: BP_HGProjectile_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_HGProjectile_C_45 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2021.10.17-19.46.45:380][830]LogActor: Warning: BP_HGProjectile_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_HGProjectile_C_46 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2021.10.17-19.46.45:380][830]LogActor: Warning: BP_HGProjectile_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_HGProjectile_C_47 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2021.10.17-19.46.45:381][830]LogBlueprintUserMessages: [BP_MiniGun_C_1] 150/44
+[2021.10.17-19.46.48:260][  4]LogActor: Warning: BP_HGProjectile_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_HGProjectile_C_48 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2021.10.17-19.46.48:261][  4]LogBlueprintUserMessages: [BP_HeadGun_C_0] 100/30
+[2021.10.17-19.46.48:261][  4]LogBlueprintUserMessages: [BP_HeadGun_C_0] Floor
+[2021.10.17-19.46.48:561][ 22]LogActor: Warning: BP_HGProjectile_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_HGProjectile_C_49 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2021.10.17-19.46.48:561][ 22]LogBlueprintUserMessages: [BP_HeadGun_C_0] 100/29
+[2021.10.17-19.46.48:561][ 22]LogBlueprintUserMessages: [BP_HeadGun_C_0] Floor
+[2021.10.17-19.46.48:977][ 47]LogActor: Warning: BP_HGProjectile_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_HGProjectile_C_50 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2021.10.17-19.46.48:977][ 47]LogBlueprintUserMessages: [BP_HeadGun_C_0] 100/28
+[2021.10.17-19.46.48:977][ 47]LogBlueprintUserMessages: [BP_HeadGun_C_0] Floor
+[2021.10.17-19.46.49:211][ 61]LogActor: Warning: BP_HGProjectile_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_HGProjectile_C_51 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2021.10.17-19.46.49:211][ 61]LogBlueprintUserMessages: [BP_HeadGun_C_0] 100/27
+[2021.10.17-19.46.49:211][ 61]LogBlueprintUserMessages: [BP_HeadGun_C_0] Floor
+[2021.10.17-19.46.49:427][ 74]LogActor: Warning: BP_HGProjectile_C /Game/Maps/UEDPIE_0_MainMap.MainMap:PersistentLevel.BP_HGProjectile_C_52 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2021.10.17-19.46.49:427][ 74]LogBlueprintUserMessages: [BP_HeadGun_C_0] 100/26
+[2021.10.17-19.46.49:427][ 74]LogBlueprintUserMessages: [BP_HeadGun_C_0] Floor
+[2021.10.17-19.46.49:965][104]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.17-19.46.49:965][104]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMap
+[2021.10.17-19.46.49:966][104]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.17-19.46.49:966][104]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.17-19.46.49:976][104]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.17-19.46.49:979][104]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.17-19.46.49:986][104]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.17-19.46.49:986][104]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.17-19.46.49:988][104]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.17-19.46.50:018][104]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.17-19.46.50:022][104]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2021.10.17-19.46.50:048][105]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2021.10.17-19.46.51:192][172]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap" FILE="../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/Maps/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.17-19.46.51:198][172]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.10.17-19.46.51:214][172]LogSavePackage: Moving '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Saved/MainMapB523C65245D31D4DF6AFE6BF2AA860E1.tmp' to '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/Maps/MainMap.umap'
+[2021.10.17-19.46.51:228][172]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap_BuiltData" FILE="../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/Maps/MainMap_BuiltData.uasset" SILENT=true
+[2021.10.17-19.46.51:271][172]LogSavePackage: Moving '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Saved/MainMap_BuiltData89FFB1B746B356637CA9A48199A5CF49.tmp' to '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/Maps/MainMap_BuiltData.uasset'
+[2021.10.17-19.46.51:291][172]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.17-19.46.51:291][172]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/MainMap_BuiltData.MainMap_BuiltData
+[2021.10.17-19.46.51:292][172]LogContentValidation: Display: Validating World /Game/Maps/MainMap.MainMap
+[2021.10.17-19.58.10:629][900]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.10.17-19.58.10:649][900]LogContentBrowser: Creating deferred item: NewFolder
+[2021.10.17-19.58.17:774][526]LogContentBrowser: Attempting asset rename: NewFolder -> Sound
+[2021.10.17-19.58.17:775][526]LogContentBrowser: End creating deferred item NewFolder
+[2021.10.17-19.58.21:156][802]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.10.17-19.58.21:349][809]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.10.17-19.58.21:539][816]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.10.17-19.58.22:929][918]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap" FILE="../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/Maps/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.17-19.58.22:937][918]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.10.17-19.58.22:959][918]LogSavePackage: Moving '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Saved/MainMap131491E94084A5CFFB37F7B197024F86.tmp' to '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/Maps/MainMap.umap'
+[2021.10.17-19.58.22:976][918]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap_BuiltData" FILE="../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/Maps/MainMap_BuiltData.uasset" SILENT=true
+[2021.10.17-19.58.23:022][918]LogSavePackage: Moving '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Saved/MainMap_BuiltData611314294CE146E9DB16FDAD0BAA8AAA.tmp' to '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/Maps/MainMap_BuiltData.uasset'
+[2021.10.17-19.58.23:039][918]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.17-19.58.23:039][918]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/MainMap_BuiltData.MainMap_BuiltData
+[2021.10.17-19.58.23:039][918]LogContentValidation: Display: Validating World /Game/Maps/MainMap.MainMap
+[2021.10.17-20.01.50:444][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.10.17-20.01.56:645][507]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.10.17-20.02.01:688][923]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap" FILE="../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/Maps/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.17-20.02.01:694][923]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.10.17-20.02.01:710][923]LogSavePackage: Moving '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Saved/MainMapEC28B9694BDD55A21C19629AB7FE0AF8.tmp' to '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/Maps/MainMap.umap'
+[2021.10.17-20.02.01:724][923]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap_BuiltData" FILE="../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/Maps/MainMap_BuiltData.uasset" SILENT=true
+[2021.10.17-20.02.01:763][923]LogSavePackage: Moving '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Saved/MainMap_BuiltDataD3C6F3B44A9B8CC0FC5606A74FD124AE.tmp' to '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/Maps/MainMap_BuiltData.uasset'
+[2021.10.17-20.02.01:776][923]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.17-20.02.01:776][923]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/MainMap_BuiltData.MainMap_BuiltData
+[2021.10.17-20.02.01:777][923]LogContentValidation: Display: Validating World /Game/Maps/MainMap.MainMap
+[2021.10.17-20.02.02:952][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.10.17-20.02.07:120][321]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_Beryllium.BP_Beryllium
+[2021.10.17-20.02.07:412][321]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 126 classes and 0 folders.
+[2021.10.17-20.02.08:840][321]LogSlate: Took 0.000237 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.10.17-20.02.09:101][322]LogSlate: Took 0.001542 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.10.17-20.09.46:017][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Beryllium" FILE="../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/BP_Beryllium.uasset" SILENT=true
+[2021.10.17-20.09.46:214][ 32]LogSavePackage: Moving '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Saved/BP_Beryllium0943DDC54FD968C7B4925DB9BC132F18.tmp' to '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/BP_Beryllium.uasset'
+[2021.10.17-20.09.46:233][ 32]AssetCheck: New page: Asset Save: BP_Beryllium
+[2021.10.17-20.09.46:233][ 32]LogContentValidation: Display: Validating Blueprint /Game/BP_Beryllium.BP_Beryllium
+[2021.10.17-20.09.56:424][705]BlueprintLog: New page: Compile BP_Beryllium
+[2021.10.17-20.09.56:527][705]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2021.10.17-20.10.52:784][433]BlueprintLog: New page: Compile BP_Beryllium
+[2021.10.17-20.10.52:877][433]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2021.10.17-20.10.53:399][455]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Beryllium" FILE="../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/BP_Beryllium.uasset" SILENT=true
+[2021.10.17-20.10.53:592][455]LogSavePackage: Moving '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Saved/BP_Beryllium81A0C4174897E14C32B163B682BD4914.tmp' to '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/BP_Beryllium.uasset'
+[2021.10.17-20.10.53:613][455]AssetCheck: New page: Asset Save: BP_Beryllium
+[2021.10.17-20.10.53:614][455]LogContentValidation: Display: Validating Blueprint /Game/BP_Beryllium.BP_Beryllium
+[2021.10.17-20.11.10:467][790]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Beryllium" FILE="../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/BP_Beryllium.uasset" SILENT=true
+[2021.10.17-20.11.10:656][790]LogSavePackage: Moving '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Saved/BP_Beryllium74CE59D3410A62CBD28255BC61967312.tmp' to '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/BP_Beryllium.uasset'
+[2021.10.17-20.11.10:675][790]AssetCheck: New page: Asset Save: BP_Beryllium
+[2021.10.17-20.11.10:675][790]LogContentValidation: Display: Validating Blueprint /Game/BP_Beryllium.BP_Beryllium
+[2021.10.17-20.11.15:779][281]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Beryllium" FILE="../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/BP_Beryllium.uasset" SILENT=true
+[2021.10.17-20.11.15:964][281]LogSavePackage: Moving '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Saved/BP_BerylliumCD75B88E4CF7AA26BD64B7A4E41AC81D.tmp' to '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/BP_Beryllium.uasset'
+[2021.10.17-20.11.15:979][281]AssetCheck: New page: Asset Save: BP_Beryllium
+[2021.10.17-20.11.15:980][281]LogContentValidation: Display: Validating Blueprint /Game/BP_Beryllium.BP_Beryllium
+[2021.10.17-20.11.32:574][867]BlueprintLog: New page: Compile BP_Beryllium
+[2021.10.17-20.11.32:673][867]LogUObjectHash: Compacting FUObjectHashTables data took   5.86ms
+[2021.10.17-20.11.33:081][890]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Beryllium" FILE="../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/BP_Beryllium.uasset" SILENT=true
+[2021.10.17-20.11.33:281][890]LogSavePackage: Moving '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Saved/BP_Beryllium976D4E7148374CF7A6A61996C5D8E627.tmp' to '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/BP_Beryllium.uasset'
+[2021.10.17-20.11.33:301][890]AssetCheck: New page: Asset Save: BP_Beryllium
+[2021.10.17-20.11.33:301][890]LogContentValidation: Display: Validating Blueprint /Game/BP_Beryllium.BP_Beryllium
+[2021.10.17-20.12.05:233][ 92]BlueprintLog: New page: Compile BP_Beryllium
+[2021.10.17-20.12.05:332][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2021.10.17-20.12.05:755][113]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Beryllium" FILE="../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/BP_Beryllium.uasset" SILENT=true
+[2021.10.17-20.12.05:954][113]LogSavePackage: Moving '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Saved/BP_Beryllium01FBC9BE41A6897994FBA284C6CFB544.tmp' to '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/BP_Beryllium.uasset'
+[2021.10.17-20.12.05:973][113]AssetCheck: New page: Asset Save: BP_Beryllium
+[2021.10.17-20.12.05:973][113]LogContentValidation: Display: Validating Blueprint /Game/BP_Beryllium.BP_Beryllium
+[2021.10.17-20.12.06:635][177]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.17-20.12.06:647][177]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.17-20.12.06:647][177]PIE: New page: PIE session: MainMap (18-Oct-2021, 7:12:06 am)
+[2021.10.17-20.12.06:647][177]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2021.10.17-20.12.06:651][177]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004143s)
+[2021.10.17-20.12.06:653][177]LogAIModule: Creating AISystem for world MainMap
+[2021.10.17-20.12.06:653][177]LogPlayLevel: PIE: World Init took: (0.001403s)
+[2021.10.17-20.12.06:653][177]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.005737s)
+[2021.10.17-20.12.06:680][177]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2021.10.17-20.12.06:680][177]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.10.17-20.12.06:681][177]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.17-20.12.06:681][177]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.17-20.12.06:681][177]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.17-20.12.06:681][177]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.17-20.12.06:681][177]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.17-20.12.06:681][177]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.17-20.12.06:681][177]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.17-20.12.06:681][177]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.17-20.12.06:681][177]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.17-20.12.06:681][177]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.17-20.12.06:684][177]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.17-20.12.06:684][177]LogAudioMixer: Display: 1: FrontRight
+[2021.10.17-20.12.06:708][177]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.10.17-20.12.06:709][177]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.17-20.12.06:709][177]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.17-20.12.06:709][177]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.17-20.12.06:710][177]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.17-20.12.06:710][177]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.17-20.12.06:710][177]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.17-20.12.06:738][177]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.17-20.12.06:738][177]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.17-20.12.06:738][177]LogInit: FAudioDevice initialized.
+[2021.10.17-20.12.06:738][177]LogAudio: Display: Audio Device (ID: 3) registered with world 'MainMap'.
+[2021.10.17-20.12.06:778][177]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.17-20.12.06:778][177]LogLoad: Game class is 'BP_CarProjectGameModeBase_C'
+[2021.10.17-20.12.06:781][177]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2021.10.18-01.42.06
+[2021.10.17-20.12.06:782][177]LogWorld: Bringing up level for play took: 0.002494
+[2021.10.17-20.12.06:782][177]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2021.10.17-20.12.06:787][177]LogBlueprintUserMessages: [BP_Beryllium_2] 5729.577637
+[2021.10.17-20.12.06:788][177]LogTemp: Warning: Worked..!
+[2021.10.17-20.12.06:789][177]LogBlueprintUserMessages: [BP_Chevrolate_C_0] false
+[2021.10.17-20.12.06:789][177]LogTemp: Warning: Worked..!
+[2021.10.17-20.12.06:793][177]PIE: Server logged in
+[2021.10.17-20.12.06:797][177]PIE: Play in editor total start time 0.153 seconds.
+[2021.10.17-20.12.06:852][178]LogRenderer: Reallocating scene render targets to support 1360x832 Format 10 NumSamples 1 (Frame:1).
+[2021.10.17-20.12.11:385][408]LogSlate: Window 'CarProject Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.10.17-20.12.11:417][408]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMap
+[2021.10.17-20.12.11:417][408]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.17-20.12.11:418][408]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.17-20.12.11:428][408]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.17-20.12.11:433][408]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.17-20.12.11:457][408]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.17-20.12.11:458][408]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.17-20.12.11:495][408]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2021.10.17-20.12.11:530][409]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2021.10.17-20.12.18:631][ 81]BlueprintLog: New page: Compile BP_Beryllium
+[2021.10.17-20.12.18:728][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2021.10.17-20.12.19:173][104]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Beryllium" FILE="../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/BP_Beryllium.uasset" SILENT=true
+[2021.10.17-20.12.19:373][104]LogSavePackage: Moving '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Saved/BP_BerylliumE5C70A0441BE94B1DC2E7AB1B5ACD821.tmp' to '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/BP_Beryllium.uasset'
+[2021.10.17-20.12.19:391][104]AssetCheck: New page: Asset Save: BP_Beryllium
+[2021.10.17-20.12.19:391][104]LogContentValidation: Display: Validating Blueprint /Game/BP_Beryllium.BP_Beryllium
+[2021.10.17-20.12.35:019][577]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Beryllium" FILE="../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/BP_Beryllium.uasset" SILENT=true
+[2021.10.17-20.12.35:214][577]LogSavePackage: Moving '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Saved/BP_Beryllium4BBADF97427A7D04BB7B6CB63423EBF2.tmp' to '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/BP_Beryllium.uasset'
+[2021.10.17-20.12.35:231][577]AssetCheck: New page: Asset Save: BP_Beryllium
+[2021.10.17-20.12.35:231][577]LogContentValidation: Display: Validating Blueprint /Game/BP_Beryllium.BP_Beryllium
+[2021.10.17-20.13.03:678][347]BlueprintLog: New page: Compile BP_Beryllium
+[2021.10.17-20.13.03:778][347]LogUObjectHash: Compacting FUObjectHashTables data took   4.81ms
+[2021.10.17-20.13.04:206][359]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Beryllium" FILE="../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/BP_Beryllium.uasset" SILENT=true
+[2021.10.17-20.13.04:412][359]LogSavePackage: Moving '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Saved/BP_BerylliumAE75F8FA4DDDFEF118A97A92C9CE726C.tmp' to '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/BP_Beryllium.uasset'
+[2021.10.17-20.13.04:429][359]AssetCheck: New page: Asset Save: BP_Beryllium
+[2021.10.17-20.13.04:429][359]LogContentValidation: Display: Validating Blueprint /Game/BP_Beryllium.BP_Beryllium
+[2021.10.17-20.13.41:717][750]BlueprintLog: New page: Compile BP_Beryllium
+[2021.10.17-20.13.41:820][750]LogUObjectHash: Compacting FUObjectHashTables data took   5.55ms
+[2021.10.17-20.13.42:241][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Beryllium" FILE="../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/BP_Beryllium.uasset" SILENT=true
+[2021.10.17-20.13.42:442][769]LogSavePackage: Moving '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Saved/BP_BerylliumDE7AB31940099633ADB57A84981519CA.tmp' to '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/BP_Beryllium.uasset'
+[2021.10.17-20.13.42:462][769]AssetCheck: New page: Asset Save: BP_Beryllium
+[2021.10.17-20.13.42:462][769]LogContentValidation: Display: Validating Blueprint /Game/BP_Beryllium.BP_Beryllium
+[2021.10.17-20.13.45:446][ 44]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Beryllium" FILE="../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/BP_Beryllium.uasset" SILENT=true
+[2021.10.17-20.13.45:640][ 44]LogSavePackage: Moving '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Saved/BP_Beryllium905273FF409F2DCF9E3BD3BD0A6D84A0.tmp' to '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/BP_Beryllium.uasset'
+[2021.10.17-20.13.45:658][ 44]AssetCheck: New page: Asset Save: BP_Beryllium
+[2021.10.17-20.13.45:658][ 44]LogContentValidation: Display: Validating Blueprint /Game/BP_Beryllium.BP_Beryllium
+[2021.10.17-20.13.46:614][108]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap" FILE="../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/Maps/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.17-20.13.46:642][108]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2021.10.17-20.13.46:657][108]LogSavePackage: Moving '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Saved/MainMap41AE784A484ED4F2AFCC8A962BCBE064.tmp' to '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/Maps/MainMap.umap'
+[2021.10.17-20.13.46:668][108]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap_BuiltData" FILE="../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/Maps/MainMap_BuiltData.uasset" SILENT=true
+[2021.10.17-20.13.46:705][108]LogSavePackage: Moving '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Saved/MainMap_BuiltDataF074362F40A9A5054910FDB864AF61F7.tmp' to '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/Maps/MainMap_BuiltData.uasset'
+[2021.10.17-20.13.46:721][108]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.17-20.13.46:722][108]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/MainMap_BuiltData.MainMap_BuiltData
+[2021.10.17-20.13.46:722][108]LogContentValidation: Display: Validating World /Game/Maps/MainMap.MainMap
+[2021.10.17-20.14.00:441][278]BlueprintLog: New page: Compile BP_Beryllium
+[2021.10.17-20.14.00:542][278]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2021.10.17-20.14.00:998][300]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Beryllium" FILE="../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/BP_Beryllium.uasset" SILENT=true
+[2021.10.17-20.14.01:194][300]LogSavePackage: Moving '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Saved/BP_BerylliumD152813A4E73DBEB9FBAB0964459D180.tmp' to '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/BP_Beryllium.uasset'
+[2021.10.17-20.14.01:213][300]AssetCheck: New page: Asset Save: BP_Beryllium
+[2021.10.17-20.14.01:213][300]LogContentValidation: Display: Validating Blueprint /Game/BP_Beryllium.BP_Beryllium
+[2021.10.17-20.14.26:715][341]BlueprintLog: New page: Compile BP_Beryllium
+[2021.10.17-20.14.26:813][341]LogUObjectHash: Compacting FUObjectHashTables data took   6.18ms
+[2021.10.17-20.14.27:627][397]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Beryllium" FILE="../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/BP_Beryllium.uasset" SILENT=true
+[2021.10.17-20.14.27:830][397]LogSavePackage: Moving '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Saved/BP_Beryllium5D2A24AB47A80526D8CC079AB0BFF12B.tmp' to '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/BP_Beryllium.uasset'
+[2021.10.17-20.14.27:847][397]AssetCheck: New page: Asset Save: BP_Beryllium
+[2021.10.17-20.14.27:847][397]LogContentValidation: Display: Validating Blueprint /Game/BP_Beryllium.BP_Beryllium
+[2021.10.17-20.14.30:508][583]LogUObjectHash: Compacting FUObjectHashTables data took   5.61ms
+[2021.10.17-20.14.30:533][583]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap" FILE="../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/Maps/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.17-20.14.30:555][583]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.10.17-20.14.30:573][583]LogSavePackage: Moving '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Saved/MainMap5C404D514F8B9769E26075A38999086F.tmp' to '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/Maps/MainMap.umap'
+[2021.10.17-20.14.30:584][583]LogFileHelpers: Saving map 'MainMap' took 0.052
+[2021.10.17-20.14.30:599][583]AssetCheck: New page: Asset Save: MainMap
+[2021.10.17-20.14.30:600][583]LogContentValidation: Display: Validating World /Game/Maps/MainMap.MainMap
+[2021.10.17-20.14.35:332][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap" FILE="../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/Maps/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.17-20.14.35:358][983]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2021.10.17-20.14.35:375][983]LogSavePackage: Moving '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Saved/MainMap280DF920491A851E68EB7094414F13F7.tmp' to '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/Maps/MainMap.umap'
+[2021.10.17-20.14.35:387][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap_BuiltData" FILE="../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/Maps/MainMap_BuiltData.uasset" SILENT=true
+[2021.10.17-20.14.35:424][983]LogSavePackage: Moving '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Saved/MainMap_BuiltData0EECC77049CC98D568C777A85B32CFF0.tmp' to '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/Maps/MainMap_BuiltData.uasset'
+[2021.10.17-20.14.35:439][983]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.17-20.14.35:439][983]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/MainMap_BuiltData.MainMap_BuiltData
+[2021.10.17-20.14.35:439][983]LogContentValidation: Display: Validating World /Game/Maps/MainMap.MainMap
+[2021.10.17-20.14.45:324][844]BlueprintLog: New page: Compile BP_Beryllium
+[2021.10.17-20.14.45:429][844]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2021.10.17-20.14.45:967][874]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Beryllium" FILE="../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/BP_Beryllium.uasset" SILENT=true
+[2021.10.17-20.14.46:165][874]LogSavePackage: Moving '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Saved/BP_BerylliumF68E03074A36CE589A5A3A90DC60B80D.tmp' to '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/BP_Beryllium.uasset'
+[2021.10.17-20.14.46:184][874]AssetCheck: New page: Asset Save: BP_Beryllium
+[2021.10.17-20.14.46:184][874]LogContentValidation: Display: Validating Blueprint /Game/BP_Beryllium.BP_Beryllium
+[2021.10.17-20.14.46:926][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap" FILE="../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/Maps/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.17-20.14.46:953][927]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2021.10.17-20.14.46:970][927]LogSavePackage: Moving '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Saved/MainMap1B44031E4ACA61B4D5DB0197E82784F5.tmp' to '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/Maps/MainMap.umap'
+[2021.10.17-20.14.46:983][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap_BuiltData" FILE="../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/Maps/MainMap_BuiltData.uasset" SILENT=true
+[2021.10.17-20.14.47:020][927]LogSavePackage: Moving '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Saved/MainMap_BuiltData16B6A0BB49C7786C81472B9B5E6835B6.tmp' to '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/Maps/MainMap_BuiltData.uasset'
+[2021.10.17-20.14.47:035][927]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.17-20.14.47:035][927]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/MainMap_BuiltData.MainMap_BuiltData
+[2021.10.17-20.14.47:035][927]LogContentValidation: Display: Validating World /Game/Maps/MainMap.MainMap
+[2021.10.17-20.15.01:170][797]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave CopeLX_Gear_2...
+[2021.10.17-20.15.01:171][797]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sound/Sounds/Wav/CopeLX_Gear_2.CopeLX_Gear_2 will be modified from 40 to 40.
+[2021.10.17-20.15.01:328][797]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 1038668 while cooking SoundWave /Game/Sound/Sounds/Wav/CopeLX_Gear_2.CopeLX_Gear_2.
+[2021.10.17-20.15.06:869][111]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave CopeLX_Gear_1...
+[2021.10.17-20.15.06:871][111]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sound/Sounds/Wav/CopeLX_Gear_1.CopeLX_Gear_1 will be modified from 100 to 100.
+[2021.10.17-20.15.07:144][111]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 2221824 while cooking SoundWave /Game/Sound/Sounds/Wav/CopeLX_Gear_1.CopeLX_Gear_1.
+[2021.10.17-20.15.12:112][396]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave CopeLX_Gear_3...
+[2021.10.17-20.15.12:112][396]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sound/Sounds/Wav/CopeLX_Gear_3.CopeLX_Gear_3 will be modified from 40 to 40.
+[2021.10.17-20.15.12:191][396]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 583828 while cooking SoundWave /Game/Sound/Sounds/Wav/CopeLX_Gear_3.CopeLX_Gear_3.
+[2021.10.17-20.15.19:623][822]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave close_hood...
+[2021.10.17-20.15.19:623][822]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sound/Sounds/Wav/close_hood.close_hood will be modified from 40 to 40.
+[2021.10.17-20.15.19:642][822]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 88200 while cooking SoundWave /Game/Sound/Sounds/Wav/close_hood.close_hood.
+[2021.10.17-20.15.20:491][869]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave CarSignal...
+[2021.10.17-20.15.20:491][869]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sound/Sounds/Wav/CarSignal.CarSignal will be modified from 40 to 40.
+[2021.10.17-20.15.20:512][869]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 118628 while cooking SoundWave /Game/Sound/Sounds/Wav/CarSignal.CarSignal.
+[2021.10.17-20.15.22:142][959]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave BrakeSound...
+[2021.10.17-20.15.22:142][959]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sound/Sounds/Wav/BrakeSound.BrakeSound will be modified from 40 to 40.
+[2021.10.17-20.15.22:206][959]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 423360 while cooking SoundWave /Game/Sound/Sounds/Wav/BrakeSound.BrakeSound.
+[2021.10.17-20.15.31:693][528]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave whoos...
+[2021.10.17-20.15.31:694][528]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sound/Sounds/Wav/whoos.whoos will be modified from 40 to 40.
+[2021.10.17-20.15.31:708][528]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 49848 while cooking SoundWave /Game/Sound/Sounds/Wav/whoos.whoos.
+[2021.10.17-20.15.32:778][586]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave TireSkid2...
+[2021.10.17-20.15.32:778][586]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sound/Sounds/Wav/TireSkid2.TireSkid2 will be modified from 40 to 40.
+[2021.10.17-20.15.32:854][586]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 602496 while cooking SoundWave /Game/Sound/Sounds/Wav/TireSkid2.TireSkid2.
+[2021.10.17-20.15.35:345][731]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Nix320GT_Gear3...
+[2021.10.17-20.15.35:345][731]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sound/Sounds/Wav/Nix320GT_Gear3.Nix320GT_Gear3 will be modified from 40 to 40.
+[2021.10.17-20.15.35:388][731]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 329856 while cooking SoundWave /Game/Sound/Sounds/Wav/Nix320GT_Gear3.Nix320GT_Gear3.
+[2021.10.17-20.15.40:357][ 16]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Nix320GT_Gear2...
+[2021.10.17-20.15.40:357][ 16]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sound/Sounds/Wav/Nix320GT_Gear2.Nix320GT_Gear2 will be modified from 40 to 40.
+[2021.10.17-20.15.40:398][ 16]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 321988 while cooking SoundWave /Game/Sound/Sounds/Wav/Nix320GT_Gear2.Nix320GT_Gear2.
+[2021.10.17-20.15.45:522][320]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Nix320GT_Gear1...
+[2021.10.17-20.15.45:522][320]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sound/Sounds/Wav/Nix320GT_Gear1.Nix320GT_Gear1 will be modified from 40 to 40.
+[2021.10.17-20.15.45:579][320]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 451920 while cooking SoundWave /Game/Sound/Sounds/Wav/Nix320GT_Gear1.Nix320GT_Gear1.
+[2021.10.17-20.15.50:521][613]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave HandbrakeReleased...
+[2021.10.17-20.15.50:521][613]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sound/Sounds/Wav/HandbrakeReleased.HandbrakeReleased will be modified from 40 to 40.
+[2021.10.17-20.15.50:535][613]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 44432 while cooking SoundWave /Game/Sound/Sounds/Wav/HandbrakeReleased.HandbrakeReleased.
+[2021.10.17-20.15.57:786][ 22]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Gear1...
+[2021.10.17-20.15.57:787][ 22]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sound/Sounds/Wav/Gear1.Gear1 will be modified from 40 to 40.
+[2021.10.17-20.15.57:859][ 22]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 488636 while cooking SoundWave /Game/Sound/Sounds/Wav/Gear1.Gear1.
+[2021.10.17-20.15.59:284][101]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Gear2...
+[2021.10.17-20.15.59:285][101]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Sound/Sounds/Wav/Gear2.Gear2 will be modified from 40 to 40.
+[2021.10.17-20.15.59:383][101]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 774264 while cooking SoundWave /Game/Sound/Sounds/Wav/Gear2.Gear2.
+[2021.10.17-20.16.19:923][428]LogContentBrowser: Attempting asset rename: Nix320GT_Gear2 -> Nix320GT_Gear2
+[2021.10.17-20.16.35:452][271]LogContentBrowser: Deferred new asset file creation: NewSoundCue
+[2021.10.17-20.16.35:473][271]LogContentBrowser: Creating deferred item: NewSoundCue
+[2021.10.17-20.16.47:224][341]LogContentBrowser: Attempting asset rename: NewSoundCue -> Car_Move
+[2021.10.17-20.16.47:227][341]LogContentBrowser: End creating deferred item NewSoundCue
+[2021.10.17-20.16.49:589][538]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2021.10.17-20.16.50:723][538]LogSlate: Window 'Save Content' being destroyed
+[2021.10.17-20.16.50:751][538]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/Sounds/Wav/Car_Move" FILE="../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/Sound/Sounds/Wav/Car_Move.uasset" SILENT=true
+[2021.10.17-20.16.50:753][538]LogSavePackage: Moving '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Saved/Car_MoveF7182B6C478697DD2799218AFD2C6A71.tmp' to '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/Sound/Sounds/Wav/Car_Move.uasset'
+[2021.10.17-20.16.50:770][538]AssetCheck: New page: Asset Save: Car_Move
+[2021.10.17-20.16.50:770][538]LogContentValidation: Display: Validating SoundCue /Game/Sound/Sounds/Wav/Car_Move.Car_Move
+[2021.10.17-20.17.02:380][279]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Sound/Sounds/Wav/Car_Move.Car_Move
+[2021.10.17-20.17.05:230][439]LogSlate: Window 'Car_Move' being destroyed
+[2021.10.17-20.17.15:921][274]LogAudio: Display: Cached duration for Sound Cue SoundCue /Game/Sound/Sounds/Wav/Car_Move.Car_Move was zero and has changed. Consider manually Re-saving the asset
+[2021.10.17-20.17.19:127][643]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound/Sounds/Wav/Car_Move" FILE="../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/Sound/Sounds/Wav/Car_Move.uasset" SILENT=true
+[2021.10.17-20.17.19:130][643]LogSavePackage: Moving '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Saved/Car_MoveB055602343F030BD82E8AD9862551EAC.tmp' to '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/Sound/Sounds/Wav/Car_Move.uasset'
+[2021.10.17-20.17.19:145][643]AssetCheck: New page: Asset Save: Car_Move
+[2021.10.17-20.17.19:145][643]LogContentValidation: Display: Validating SoundCue /Game/Sound/Sounds/Wav/Car_Move.Car_Move
+[2021.10.17-20.17.20:459][757]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap" FILE="../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/Maps/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.17-20.17.20:485][757]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2021.10.17-20.17.20:504][757]LogSavePackage: Moving '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Saved/MainMap7EDB14804A416759B63DA1BA824D0875.tmp' to '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/Maps/MainMap.umap'
+[2021.10.17-20.17.20:516][757]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap_BuiltData" FILE="../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/Maps/MainMap_BuiltData.uasset" SILENT=true
+[2021.10.17-20.17.20:555][757]LogSavePackage: Moving '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Saved/MainMap_BuiltData1DE27B1740696504EF952698DAC8B797.tmp' to '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/Maps/MainMap_BuiltData.uasset'
+[2021.10.17-20.17.20:571][757]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.17-20.17.20:571][757]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/MainMap_BuiltData.MainMap_BuiltData
+[2021.10.17-20.17.20:571][757]LogContentValidation: Display: Validating World /Game/Maps/MainMap.MainMap
+[2021.10.17-20.17.27:218][278]BlueprintLog: New page: Compile BP_Beryllium
+[2021.10.17-20.17.27:320][278]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2021.10.17-20.17.27:986][318]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Beryllium" FILE="../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/BP_Beryllium.uasset" SILENT=true
+[2021.10.17-20.17.28:185][318]LogSavePackage: Moving '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Saved/BP_Beryllium149672C541D255A3085B11AFD78E5EC1.tmp' to '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/BP_Beryllium.uasset'
+[2021.10.17-20.17.28:203][318]AssetCheck: New page: Asset Save: BP_Beryllium
+[2021.10.17-20.17.28:203][318]LogContentValidation: Display: Validating Blueprint /Game/BP_Beryllium.BP_Beryllium
+[2021.10.17-20.17.43:630][753]BlueprintLog: New page: Compile BP_Beryllium
+[2021.10.17-20.17.43:730][753]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2021.10.17-20.17.44:583][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap" FILE="../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/Maps/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.17-20.17.44:610][802]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2021.10.17-20.17.44:627][802]LogSavePackage: Moving '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Saved/MainMapE84A449C4278AA615367FD975AC7B5D2.tmp' to '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/Maps/MainMap.umap'
+[2021.10.17-20.17.44:638][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap_BuiltData" FILE="../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/Maps/MainMap_BuiltData.uasset" SILENT=true
+[2021.10.17-20.17.44:678][802]LogSavePackage: Moving '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Saved/MainMap_BuiltData1671E5FD4BA6E0BC4B7800AB1AF6643D.tmp' to '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/Maps/MainMap_BuiltData.uasset'
+[2021.10.17-20.17.44:694][802]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.17-20.17.44:694][802]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/MainMap_BuiltData.MainMap_BuiltData
+[2021.10.17-20.17.44:694][802]LogContentValidation: Display: Validating World /Game/Maps/MainMap.MainMap
+[2021.10.17-20.19.00:313][746]BlueprintLog: New page: Compile BP_Beryllium
+[2021.10.17-20.19.00:413][746]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2021.10.17-20.19.00:837][765]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Beryllium" FILE="../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/BP_Beryllium.uasset" SILENT=true
+[2021.10.17-20.19.01:040][765]LogSavePackage: Moving '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Saved/BP_Beryllium89E701A447283D3013134B831CF3978F.tmp' to '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/BP_Beryllium.uasset'
+[2021.10.17-20.19.01:056][765]AssetCheck: New page: Asset Save: BP_Beryllium
+[2021.10.17-20.19.01:056][765]LogContentValidation: Display: Validating Blueprint /Game/BP_Beryllium.BP_Beryllium
+[2021.10.17-20.19.01:923][834]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap" FILE="../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/Maps/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.17-20.19.01:948][834]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2021.10.17-20.19.01:965][834]LogSavePackage: Moving '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Saved/MainMapAF190E4C4D1D9F73ABAB198BF16C11BF.tmp' to '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/Maps/MainMap.umap'
+[2021.10.17-20.19.01:977][834]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap_BuiltData" FILE="../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/Maps/MainMap_BuiltData.uasset" SILENT=true
+[2021.10.17-20.19.02:014][834]LogSavePackage: Moving '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Saved/MainMap_BuiltData178049FB47CD8A2AB12DC7943F0B6BD3.tmp' to '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/Maps/MainMap_BuiltData.uasset'
+[2021.10.17-20.19.02:033][834]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.17-20.19.02:033][834]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/MainMap_BuiltData.MainMap_BuiltData
+[2021.10.17-20.19.02:033][834]LogContentValidation: Display: Validating World /Game/Maps/MainMap.MainMap
+[2021.10.17-20.19.08:619][264]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap" FILE="../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/Maps/MainMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.10.17-20.19.08:642][264]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.10.17-20.19.08:659][264]LogSavePackage: Moving '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Saved/MainMap436778F84580DD6A4E938C9B35DC5A11.tmp' to '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/Maps/MainMap.umap'
+[2021.10.17-20.19.08:670][264]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainMap_BuiltData" FILE="../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/Maps/MainMap_BuiltData.uasset" SILENT=true
+[2021.10.17-20.19.08:707][264]LogSavePackage: Moving '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Saved/MainMap_BuiltData17B4F88A490D8540BC58B88A54126273.tmp' to '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/Maps/MainMap_BuiltData.uasset'
+[2021.10.17-20.19.08:722][264]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.17-20.19.08:722][264]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/MainMap_BuiltData.MainMap_BuiltData
+[2021.10.17-20.19.08:722][264]LogContentValidation: Display: Validating World /Game/Maps/MainMap.MainMap
+[2021.10.17-20.19.09:447][306]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.17-20.19.09:457][306]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.10.17-20.19.09:462][306]LogPlayLevel: [PlayLevel] Compiling BP_CarProjectGameModeBase before play...
+[2021.10.17-20.19.09:539][306]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2021.10.17-20.19.09:539][306]LogPlayLevel: PlayLevel: Blueprint regeneration took 82 ms (1 blueprints)
+[2021.10.17-20.19.09:540][306]PIE: New page: PIE session: MainMap (18-Oct-2021, 7:19:09 am)
+[2021.10.17-20.19.09:540][306]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2021.10.17-20.19.09:544][306]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004169s)
+[2021.10.17-20.19.09:545][306]LogAIModule: Creating AISystem for world MainMap
+[2021.10.17-20.19.09:546][306]LogPlayLevel: PIE: World Init took: (0.001480s)
+[2021.10.17-20.19.09:546][306]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.005843s)
+[2021.10.17-20.19.09:569][306]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2021.10.17-20.19.09:570][306]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.10.17-20.19.09:570][306]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.17-20.19.09:570][306]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.17-20.19.09:570][306]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.17-20.19.09:570][306]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.17-20.19.09:570][306]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.17-20.19.09:570][306]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.17-20.19.09:570][306]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.17-20.19.09:570][306]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.17-20.19.09:570][306]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.17-20.19.09:570][306]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.17-20.19.09:573][306]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.17-20.19.09:573][306]LogAudioMixer: Display: 1: FrontRight
+[2021.10.17-20.19.09:597][306]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.10.17-20.19.09:598][306]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.17-20.19.09:598][306]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.17-20.19.09:598][306]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.17-20.19.09:598][306]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.17-20.19.09:599][306]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.17-20.19.09:599][306]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.17-20.19.09:625][306]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.17-20.19.09:625][306]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.17-20.19.09:625][306]LogInit: FAudioDevice initialized.
+[2021.10.17-20.19.09:625][306]LogAudio: Display: Audio Device (ID: 4) registered with world 'MainMap'.
+[2021.10.17-20.19.09:637][306]LogLoad: Game class is 'BP_CarProjectGameModeBase_C'
+[2021.10.17-20.19.09:640][306]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2021.10.18-01.49.09
+[2021.10.17-20.19.09:640][306]LogWorld: Bringing up level for play took: 0.001997
+[2021.10.17-20.19.09:640][306]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2021.10.17-20.19.09:645][306]LogTemp: Warning: Worked..!
+[2021.10.17-20.19.09:646][306]LogTemp: Warning: Worked..!
+[2021.10.17-20.19.09:646][306]PIE: Server logged in
+[2021.10.17-20.19.09:647][306]PIE: Play in editor total start time 0.192 seconds.
+[2021.10.17-20.19.21:721][317]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.17-20.19.21:721][317]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMap
+[2021.10.17-20.19.21:721][317]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.17-20.19.21:722][317]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.17-20.19.21:735][317]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.17-20.19.21:740][317]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.17-20.19.21:763][317]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.17-20.19.21:764][317]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.17-20.19.21:765][317]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.17-20.19.21:802][317]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2021.10.17-20.19.21:836][318]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2021.10.17-20.20.09:557][385]BlueprintLog: New page: Compile BP_Beryllium
+[2021.10.17-20.20.09:669][385]LogUObjectHash: Compacting FUObjectHashTables data took   6.77ms
+[2021.10.17-20.20.10:154][406]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Beryllium" FILE="../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/BP_Beryllium.uasset" SILENT=true
+[2021.10.17-20.20.10:352][406]LogSavePackage: Moving '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Saved/BP_BerylliumA2398B954CD469C933B184A46D83039E.tmp' to '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/BP_Beryllium.uasset'
+[2021.10.17-20.20.10:371][406]AssetCheck: New page: Asset Save: BP_Beryllium
+[2021.10.17-20.20.10:371][406]LogContentValidation: Display: Validating Blueprint /Game/BP_Beryllium.BP_Beryllium
+[2021.10.17-20.20.12:382][579]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.17-20.20.12:394][579]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.17-20.20.12:394][579]PIE: New page: PIE session: MainMap (18-Oct-2021, 7:20:12 am)
+[2021.10.17-20.20.12:394][579]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2021.10.17-20.20.12:398][579]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003511s)
+[2021.10.17-20.20.12:399][579]LogAIModule: Creating AISystem for world MainMap
+[2021.10.17-20.20.12:399][579]LogPlayLevel: PIE: World Init took: (0.001428s)
+[2021.10.17-20.20.12:399][579]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.005159s)
+[2021.10.17-20.20.12:426][579]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2021.10.17-20.20.12:427][579]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.10.17-20.20.12:427][579]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.17-20.20.12:427][579]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.17-20.20.12:427][579]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.17-20.20.12:427][579]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.17-20.20.12:427][579]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.17-20.20.12:427][579]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.17-20.20.12:427][579]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.17-20.20.12:427][579]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.17-20.20.12:428][579]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.17-20.20.12:428][579]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.17-20.20.12:430][579]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.17-20.20.12:430][579]LogAudioMixer: Display: 1: FrontRight
+[2021.10.17-20.20.12:454][579]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.10.17-20.20.12:454][579]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.17-20.20.12:455][579]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.17-20.20.12:455][579]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.17-20.20.12:455][579]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.17-20.20.12:455][579]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.17-20.20.12:455][579]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.17-20.20.12:481][579]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.17-20.20.12:481][579]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.17-20.20.12:481][579]LogInit: FAudioDevice initialized.
+[2021.10.17-20.20.12:481][579]LogAudio: Display: Audio Device (ID: 5) registered with world 'MainMap'.
+[2021.10.17-20.20.12:513][579]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.17-20.20.12:513][579]LogLoad: Game class is 'BP_CarProjectGameModeBase_C'
+[2021.10.17-20.20.12:515][579]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2021.10.18-01.50.12
+[2021.10.17-20.20.12:516][579]LogWorld: Bringing up level for play took: 0.002329
+[2021.10.17-20.20.12:516][579]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2021.10.17-20.20.12:523][579]LogTemp: Warning: Worked..!
+[2021.10.17-20.20.12:524][579]LogTemp: Warning: Worked..!
+[2021.10.17-20.20.12:528][579]PIE: Server logged in
+[2021.10.17-20.20.12:532][579]PIE: Play in editor total start time 0.141 seconds.
+[2021.10.17-20.20.16:411][770]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.17-20.20.16:411][770]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMap
+[2021.10.17-20.20.16:412][770]LogSlate: Window 'CarProject Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.10.17-20.20.16:421][770]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.17-20.20.16:422][770]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.17-20.20.16:437][770]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.17-20.20.16:442][770]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.17-20.20.16:467][770]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.17-20.20.16:469][770]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.17-20.20.16:512][770]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2021.10.17-20.20.16:548][771]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2021.10.17-20.20.30:645][908]BlueprintLog: New page: Compile BP_Beryllium
+[2021.10.17-20.20.30:750][908]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2021.10.17-20.20.31:225][929]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Beryllium" FILE="../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/BP_Beryllium.uasset" SILENT=true
+[2021.10.17-20.20.31:424][929]LogSavePackage: Moving '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Saved/BP_BerylliumEDEE6D194D206D657FA38EB754A69991.tmp' to '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/BP_Beryllium.uasset'
+[2021.10.17-20.20.31:441][929]AssetCheck: New page: Asset Save: BP_Beryllium
+[2021.10.17-20.20.31:441][929]LogContentValidation: Display: Validating Blueprint /Game/BP_Beryllium.BP_Beryllium
+[2021.10.17-20.20.33:208][ 78]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.17-20.20.33:220][ 78]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.17-20.20.33:220][ 78]PIE: New page: PIE session: MainMap (18-Oct-2021, 7:20:33 am)
+[2021.10.17-20.20.33:220][ 78]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2021.10.17-20.20.33:225][ 78]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005066s)
+[2021.10.17-20.20.33:227][ 78]LogAIModule: Creating AISystem for world MainMap
+[2021.10.17-20.20.33:227][ 78]LogPlayLevel: PIE: World Init took: (0.001935s)
+[2021.10.17-20.20.33:227][ 78]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.007248s)
+[2021.10.17-20.20.33:255][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2021.10.17-20.20.33:257][ 78]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.10.17-20.20.33:257][ 78]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.17-20.20.33:257][ 78]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.17-20.20.33:257][ 78]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.17-20.20.33:257][ 78]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.17-20.20.33:257][ 78]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.17-20.20.33:257][ 78]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.17-20.20.33:257][ 78]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.17-20.20.33:257][ 78]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.17-20.20.33:257][ 78]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.17-20.20.33:257][ 78]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.17-20.20.33:260][ 78]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.17-20.20.33:260][ 78]LogAudioMixer: Display: 1: FrontRight
+[2021.10.17-20.20.33:284][ 78]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.10.17-20.20.33:285][ 78]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.17-20.20.33:285][ 78]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.17-20.20.33:285][ 78]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.17-20.20.33:286][ 78]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.17-20.20.33:286][ 78]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.17-20.20.33:286][ 78]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.17-20.20.33:313][ 78]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.17-20.20.33:313][ 78]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.17-20.20.33:313][ 78]LogInit: FAudioDevice initialized.
+[2021.10.17-20.20.33:313][ 78]LogAudio: Display: Audio Device (ID: 6) registered with world 'MainMap'.
+[2021.10.17-20.20.33:355][ 78]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.17-20.20.33:356][ 78]LogLoad: Game class is 'BP_CarProjectGameModeBase_C'
+[2021.10.17-20.20.33:359][ 78]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2021.10.18-01.50.33
+[2021.10.17-20.20.33:360][ 78]LogWorld: Bringing up level for play took: 0.003281
+[2021.10.17-20.20.33:360][ 78]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2021.10.17-20.20.33:366][ 78]LogTemp: Warning: Worked..!
+[2021.10.17-20.20.33:366][ 78]LogTemp: Warning: Worked..!
+[2021.10.17-20.20.33:372][ 78]PIE: Server logged in
+[2021.10.17-20.20.33:377][ 78]PIE: Play in editor total start time 0.162 seconds.
+[2021.10.17-20.20.47:251][812]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.17-20.20.47:251][812]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMap
+[2021.10.17-20.20.47:252][812]LogSlate: Window 'CarProject Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.10.17-20.20.47:261][812]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.17-20.20.47:262][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.17-20.20.47:271][812]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.17-20.20.47:276][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.17-20.20.47:300][812]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.17-20.20.47:301][812]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.17-20.20.47:340][812]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2021.10.17-20.20.47:374][813]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2021.10.17-20.21.10:901][894]BlueprintLog: New page: Compile BP_Beryllium
+[2021.10.17-20.21.11:007][894]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2021.10.17-20.21.11:464][914]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Beryllium" FILE="../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/BP_Beryllium.uasset" SILENT=true
+[2021.10.17-20.21.11:675][914]LogSavePackage: Moving '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Saved/BP_Beryllium10D2581446EE18283B73C59C90576DCC.tmp' to '../../../../../../Users/yash lahoti/Documents/Unreal Projects/CarProject/Content/BP_Beryllium.uasset'
+[2021.10.17-20.21.11:695][914]AssetCheck: New page: Asset Save: BP_Beryllium
+[2021.10.17-20.21.11:695][914]LogContentValidation: Display: Validating Blueprint /Game/BP_Beryllium.BP_Beryllium
+[2021.10.17-20.21.13:353][ 56]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.10.17-20.21.40:998][ 56]LogStats: FPlatformStackWalk::StackWalkAndDump - 27.645 s
+[2021.10.17-20.21.40:999][ 56]LogOutputDevice: Error: === Handled ensure: ===
+[2021.10.17-20.21.40:999][ 56]LogOutputDevice: Error: 
+[2021.10.17-20.21.40:999][ 56]LogOutputDevice: Error: Ensure condition failed: !bGraphDataInvalid [File:D:/Build/++UE4/Sync/Engine/Source/Editor/GraphEditor/Private/SGraphPin.cpp] [Line: 821]
+[2021.10.17-20.21.40:999][ 56]LogOutputDevice: Error: The Graph Pin Object has been invalidate. Someone is keeping a hard ref on the SGraphPin. See InvalidateGraphData for more info
+[2021.10.17-20.21.40:999][ 56]LogOutputDevice: Error: Stack: 
+[2021.10.17-20.21.40:999][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff82d91d149 UE4Editor-GraphEditor.dll!DispatchCheckVerify<bool,<lambda_ce374a83dad59d7c43158c240c424239> >() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Core\Public\Misc\AssertionMacros.h:164]
+[2021.10.17-20.21.40:999][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff82d7c2141 UE4Editor-GraphEditor.dll!SGraphNode::FindWidgetForPin() [D:\Build\++UE4\Sync\Engine\Source\Editor\GraphEditor\Private\SGraphNode.cpp:1287]
+[2021.10.17-20.21.40:999][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff82d7c0db8 UE4Editor-GraphEditor.dll!FGraphPinHandle::FindInGraphPanel() [D:\Build\++UE4\Sync\Engine\Source\Editor\GraphEditor\Private\SGraphPin.cpp:59]
+[2021.10.17-20.21.40:999][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff82d7ce88c UE4Editor-GraphEditor.dll!FGraphSplineOverlapResult::GetBestPinWidget() [D:\Build\++UE4\Sync\Engine\Source\Editor\GraphEditor\Public\GraphSplineOverlapResult.h:55]
+[2021.10.17-20.21.40:999][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff82d846b8c UE4Editor-GraphEditor.dll!SGraphPanel::OnSplineHoverStateChanged() [D:\Build\++UE4\Sync\Engine\Source\Editor\GraphEditor\Private\SGraphPanel.cpp:498]
+[2021.10.17-20.21.40:999][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff82d844089 UE4Editor-GraphEditor.dll!SGraphPanel::OnPaint() [D:\Build\++UE4\Sync\Engine\Source\Editor\GraphEditor\Private\SGraphPanel.cpp:453]
+[2021.10.17-20.21.40:999][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff84d736d26 UE4Editor-SlateCore.dll!SWidget::Paint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1390]
+[2021.10.17-20.21.40:999][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff84d734a55 UE4Editor-SlateCore.dll!SOverlay::OnPaint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SOverlay.cpp:95]
+[2021.10.17-20.21.40:999][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff84d736d26 UE4Editor-SlateCore.dll!SWidget::Paint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1390]
+[2021.10.17-20.21.40:999][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff84d733dc2 UE4Editor-SlateCore.dll!SCompoundWidget::OnPaint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SCompoundWidget.cpp:35]
+[2021.10.17-20.21.40:999][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff84d736d26 UE4Editor-SlateCore.dll!SWidget::Paint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1390]
+[2021.10.17-20.21.40:999][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff84ea4fc19 UE4Editor-Slate.dll!SBox::OnPaint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Slate\Private\Widgets\Layout\SBox.cpp:293]
+[2021.10.17-20.21.40:999][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff84d736d26 UE4Editor-SlateCore.dll!SWidget::Paint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1390]
+[2021.10.17-20.21.40:999][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff84d733dc2 UE4Editor-SlateCore.dll!SCompoundWidget::OnPaint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SCompoundWidget.cpp:35]
+[2021.10.17-20.21.40:999][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff84d736d26 UE4Editor-SlateCore.dll!SWidget::Paint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1390]
+[2021.10.17-20.21.40:999][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff84d733dc2 UE4Editor-SlateCore.dll!SCompoundWidget::OnPaint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SCompoundWidget.cpp:35]
+[2021.10.17-20.21.40:999][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff84ea4faa4 UE4Editor-Slate.dll!SBorder::OnPaint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Slate\Private\Widgets\Layout\SBorder.cpp:120]
+[2021.10.17-20.21.40:999][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff84d736d26 UE4Editor-SlateCore.dll!SWidget::Paint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1390]
+[2021.10.17-20.21.40:999][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff84d734a55 UE4Editor-SlateCore.dll!SOverlay::OnPaint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SOverlay.cpp:95]
+[2021.10.17-20.21.40:999][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff84d736d26 UE4Editor-SlateCore.dll!SWidget::Paint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1390]
+[2021.10.17-20.21.40:999][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff84d737748 UE4Editor-SlateCore.dll!SPanel::PaintArrangedChildren() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SPanel.cpp:31]
+[2021.10.17-20.21.40:999][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff84d734beb UE4Editor-SlateCore.dll!SPanel::OnPaint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SPanel.cpp:12]
+[2021.10.17-20.21.40:999][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff84d736d26 UE4Editor-SlateCore.dll!SWidget::Paint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1390]
+[2021.10.17-20.21.40:999][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff84d733dc2 UE4Editor-SlateCore.dll!SCompoundWidget::OnPaint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SCompoundWidget.cpp:35]
+[2021.10.17-20.21.40:999][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff84d736d26 UE4Editor-SlateCore.dll!SWidget::Paint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1390]
+[2021.10.17-20.21.40:999][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff84d737748 UE4Editor-SlateCore.dll!SPanel::PaintArrangedChildren() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SPanel.cpp:31]
+[2021.10.17-20.21.40:999][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff84ea51ec0 UE4Editor-Slate.dll!SSplitter::OnPaint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Slate\Private\Widgets\Layout\SSplitter.cpp:167]
+[2021.10.17-20.21.41:000][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff84d736d26 UE4Editor-SlateCore.dll!SWidget::Paint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1390]
+[2021.10.17-20.21.41:000][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff84d733dc2 UE4Editor-SlateCore.dll!SCompoundWidget::OnPaint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SCompoundWidget.cpp:35]
+[2021.10.17-20.21.41:000][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff84d736d26 UE4Editor-SlateCore.dll!SWidget::Paint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1390]
+[2021.10.17-20.21.41:000][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff84d737748 UE4Editor-SlateCore.dll!SPanel::PaintArrangedChildren() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SPanel.cpp:31]
+[2021.10.17-20.21.41:000][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff84ea51ec0 UE4Editor-Slate.dll!SSplitter::OnPaint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Slate\Private\Widgets\Layout\SSplitter.cpp:167]
+[2021.10.17-20.21.41:000][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff84d736d26 UE4Editor-SlateCore.dll!SWidget::Paint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1390]
+[2021.10.17-20.21.41:000][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff84d734a55 UE4Editor-SlateCore.dll!SOverlay::OnPaint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SOverlay.cpp:95]
+[2021.10.17-20.21.41:000][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff84d736d26 UE4Editor-SlateCore.dll!SWidget::Paint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1390]
+[2021.10.17-20.21.41:000][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff84d733dc2 UE4Editor-SlateCore.dll!SCompoundWidget::OnPaint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SCompoundWidget.cpp:35]
+[2021.10.17-20.21.41:000][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff84d736d26 UE4Editor-SlateCore.dll!SWidget::Paint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1390]
+[2021.10.17-20.21.41:000][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff84d737748 UE4Editor-SlateCore.dll!SPanel::PaintArrangedChildren() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SPanel.cpp:31]
+[2021.10.17-20.21.41:000][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff84d734beb UE4Editor-SlateCore.dll!SPanel::OnPaint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SPanel.cpp:12]
+[2021.10.17-20.21.41:000][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff84d736d26 UE4Editor-SlateCore.dll!SWidget::Paint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1390]
+[2021.10.17-20.21.41:000][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff84d733dc2 UE4Editor-SlateCore.dll!SCompoundWidget::OnPaint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SCompoundWidget.cpp:35]
+[2021.10.17-20.21.41:000][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff84d736d26 UE4Editor-SlateCore.dll!SWidget::Paint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1390]
+[2021.10.17-20.21.41:000][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff84d733dc2 UE4Editor-SlateCore.dll!SCompoundWidget::OnPaint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SCompoundWidget.cpp:35]
+[2021.10.17-20.21.41:000][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff84ea4faa4 UE4Editor-Slate.dll!SBorder::OnPaint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Slate\Private\Widgets\Layout\SBorder.cpp:120]
+[2021.10.17-20.21.41:000][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff84d736d26 UE4Editor-SlateCore.dll!SWidget::Paint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1390]
+[2021.10.17-20.21.41:000][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff84d734a55 UE4Editor-SlateCore.dll!SOverlay::OnPaint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SOverlay.cpp:95]
+[2021.10.17-20.21.41:000][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff84d736d26 UE4Editor-SlateCore.dll!SWidget::Paint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1390]
+[2021.10.17-20.21.41:000][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff84d737748 UE4Editor-SlateCore.dll!SPanel::PaintArrangedChildren() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SPanel.cpp:31]
+[2021.10.17-20.21.41:000][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff84d734beb UE4Editor-SlateCore.dll!SPanel::OnPaint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SPanel.cpp:12]
+[2021.10.17-20.21.41:000][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff84d736d26 UE4Editor-SlateCore.dll!SWidget::Paint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1390]
+[2021.10.17-20.21.41:000][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff84d733dc2 UE4Editor-SlateCore.dll!SCompoundWidget::OnPaint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SCompoundWidget.cpp:35]
+[2021.10.17-20.21.41:000][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff84d736d26 UE4Editor-SlateCore.dll!SWidget::Paint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1390]
+[2021.10.17-20.21.41:000][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff84d737748 UE4Editor-SlateCore.dll!SPanel::PaintArrangedChildren() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SPanel.cpp:31]
+[2021.10.17-20.21.41:000][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff84ea51ec0 UE4Editor-Slate.dll!SSplitter::OnPaint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Slate\Private\Widgets\Layout\SSplitter.cpp:167]
+[2021.10.17-20.21.41:000][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff84d736d26 UE4Editor-SlateCore.dll!SWidget::Paint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1390]
+[2021.10.17-20.21.41:000][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff84d734a55 UE4Editor-SlateCore.dll!SOverlay::OnPaint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SOverlay.cpp:95]
+[2021.10.17-20.21.41:000][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff84d736d26 UE4Editor-SlateCore.dll!SWidget::Paint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1390]
+[2021.10.17-20.21.41:000][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff84d733dc2 UE4Editor-SlateCore.dll!SCompoundWidget::OnPaint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SCompoundWidget.cpp:35]
+[2021.10.17-20.21.41:000][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff84d736d26 UE4Editor-SlateCore.dll!SWidget::Paint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1390]
+[2021.10.17-20.21.41:000][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff84d737748 UE4Editor-SlateCore.dll!SPanel::PaintArrangedChildren() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SPanel.cpp:31]
+[2021.10.17-20.21.41:000][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff84d734beb UE4Editor-SlateCore.dll!SPanel::OnPaint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SPanel.cpp:12]
+[2021.10.17-20.21.41:000][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff84d736d26 UE4Editor-SlateCore.dll!SWidget::Paint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1390]
+[2021.10.17-20.21.41:000][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff84d737748 UE4Editor-SlateCore.dll!SPanel::PaintArrangedChildren() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SPanel.cpp:31]
+[2021.10.17-20.21.41:000][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff84d734beb UE4Editor-SlateCore.dll!SPanel::OnPaint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SPanel.cpp:12]
+[2021.10.17-20.21.41:000][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff84d736d26 UE4Editor-SlateCore.dll!SWidget::Paint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1390]
+[2021.10.17-20.21.41:000][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff84d734a55 UE4Editor-SlateCore.dll!SOverlay::OnPaint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SOverlay.cpp:95]
+[2021.10.17-20.21.41:000][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff84d736d26 UE4Editor-SlateCore.dll!SWidget::Paint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1390]
+[2021.10.17-20.21.41:001][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff84d733dc2 UE4Editor-SlateCore.dll!SCompoundWidget::OnPaint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SCompoundWidget.cpp:35]
+[2021.10.17-20.21.41:001][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff84d736d26 UE4Editor-SlateCore.dll!SWidget::Paint() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1390]
+[2021.10.17-20.21.41:001][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff84d737857 UE4Editor-SlateCore.dll!SWindow::PaintSlowPath() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWindow.cpp:2058]
+[2021.10.17-20.21.41:001][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff84d66252a UE4Editor-SlateCore.dll!FSlateInvalidationRoot::PaintInvalidationRoot() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\FastUpdate\SlateInvalidationRoot.cpp:240]
+[2021.10.17-20.21.41:001][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff84d737aec UE4Editor-SlateCore.dll!SWindow::PaintWindow() [D:\Build\++UE4\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWindow.cpp:2090]
+[2021.10.17-20.21.41:001][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff84e81977e UE4Editor-Slate.dll!FSlateApplication::DrawWindowAndChildren() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:1056]
+[2021.10.17-20.21.41:001][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff84e84b93e UE4Editor-Slate.dll!FSlateApplication::PrivateDrawWindows() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:1279]
+[2021.10.17-20.21.41:001][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff84e81a0d7 UE4Editor-Slate.dll!FSlateApplication::DrawWindows() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:1017]
+[2021.10.17-20.21.41:001][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff84e871e57 UE4Editor-Slate.dll!FSlateApplication::TickAndDrawWidgets() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:1569]
+[2021.10.17-20.21.41:001][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff84e871659 UE4Editor-Slate.dll!FSlateApplication::Tick() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:1423]
+[2021.10.17-20.21.41:001][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff7108bae49 UE4Editor.exe!FEngineLoop::Tick() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Launch\Private\LaunchEngineLoop.cpp:4948]
+[2021.10.17-20.21.41:001][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff7108d117c UE4Editor.exe!GuardedMain() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Launch\Private\Launch.cpp:169]
+[2021.10.17-20.21.41:001][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff7108d125a UE4Editor.exe!GuardedMainWrapper() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:137]
+[2021.10.17-20.21.41:001][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff7108e52bd UE4Editor.exe!WinMain() [D:\Build\++UE4\Sync\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:268]
+[2021.10.17-20.21.41:001][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff7108e7fea UE4Editor.exe!__scrt_common_main_seh() [d:\agent\_work\5\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl:288]
+[2021.10.17-20.21.41:001][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff8a84e7034 KERNEL32.DLL!UnknownFunction []
+[2021.10.17-20.21.41:001][ 56]LogOutputDevice: Error: [Callstack] 0x00007ff8a8802651 ntdll.dll!UnknownFunction []
+[2021.10.17-20.21.41:001][ 56]LogOutputDevice: Error: 
